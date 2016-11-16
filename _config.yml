@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Grabity"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Grabity"
+description              : "An indie game by Team Ninja Thumbs."
+url                      : "https://teamninjathumbs.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Team Ninja Thumbs"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "An indie game company."
+  location         : "Auckland, New Zealand"
   email            :
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : teamninjathumbs
   vine             :
   weibo            :
   xing             :
