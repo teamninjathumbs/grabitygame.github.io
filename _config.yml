@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Grabity"
+title                    : "Team Ninja Thumbs"
 title_separator          : "-"
-name                     : "Grabity"
-description              : "An indie game by Team Ninja Thumbs."
+name                     : "Team Ninja Thumbs"
+description              : "An indie game development studio."
 url                      : "http://teamninjathumbs.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Team Ninja Thumbs"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "An indie game company."
+  bio              : "An indie game development studio."
   location         : "Auckland, New Zealand"
   email            :
   uri              :
@@ -87,7 +87,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : TeamNinjaThumbs
   foursquare       :
   github           :
   google_plus      :
