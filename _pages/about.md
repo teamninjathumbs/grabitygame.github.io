@@ -11,8 +11,10 @@ Team Ninja Thumbs is a small independent game studio based in Auckland, New Zeal
 
 
 ## Social Media
-Twitter: [@teamninjathumbs](http://twitter.com/teamninjathumbs)
-Mail: [info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)
+
+------------ | -------------
+**Twitter**  | [@teamninjathumbs](http://twitter.com/teamninjathumbs)
+**Mail**     |  [info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)
 
 ## The Team
 
