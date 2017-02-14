@@ -1,5 +1,5 @@
 ---
-title: "Grabity"
+title: "GRABITY"
 tagline: "Robot Battle Testing"
 layout: single
 permalink: /grabity/
