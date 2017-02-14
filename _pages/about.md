@@ -7,7 +7,7 @@ header:
 ---
 
 ## About
-Team Ninja Thumbs is a small independent game studio based in Auckland, New Zealand.   We started off doing game jams, and realized that we both wanted to take on a bigger project together.  Grabity, our first title, started off as a side project but quickly grew into a serious undertaking when we realized we had a really fun prototype on our hands.
+Team Ninja Thumbs is a small independent game studio based in Auckland, New Zealand.   We started off doing game jams, but soon realized that we wanted to take on a bigger project together.  [Grabity](/grabity/) was a side project that quickly grew into a serious undertaking when we realized we had a really fun prototype on our hands.
 
 
 ## Social Media
@@ -19,12 +19,14 @@ Team Ninja Thumbs is a small independent game studio based in Auckland, New Zeal
 ## The Team
 
 ### Moritz Schlitter
-Role: Lead Artist
-Mail: [moritz@teamninjathumbs.com](mailto:moritz@teamninjathumbs.com)
-Twitter: [@momoschli](http://twitter.com/momoschli)
+------------ | -------------
+**Role**     | Lead Artist
+**Mail**     | [moritz@teamninjathumbs.com](mailto:moritz@teamninjathumbs.com)
+**Twitter**  | [@momoschli](http://twitter.com/momoschli)
 
 ### Steve Salmond
-Role: Lead Programmer
-Mail: [steve@teamninjathumbs.com](mailto:steve@teamninjathumbs.com)
-Twitter: [@stevesalmond](http://twitter.com/stevesalmond)
-Website: [stevesalmond.com](http://stevesalmond.com)
+------------ | -------------
+**Role**     | Lead Programmer
+**Mail**     | [steve@teamninjathumbs.com](mailto:steve@teamninjathumbs.com)
+**Twitter**  | [@stevesalmond](http://twitter.com/stevesalmond)
+**Website**  | [stevesalmond.com](http://stevesalmond.com)
