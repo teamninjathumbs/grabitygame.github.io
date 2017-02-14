@@ -19,12 +19,14 @@ Team Ninja Thumbs is a small independent game studio based in Auckland, New Zeal
 ## The Team
 
 ### Moritz Schlitter
+
 ------------ | -------------
 **Role**     | Lead Artist
 **Mail**     | [moritz@teamninjathumbs.com](mailto:moritz@teamninjathumbs.com)
 **Twitter**  | [@momoschli](http://twitter.com/momoschli)
 
 ### Steve Salmond
+
 ------------ | -------------
 **Role**     | Lead Programmer
 **Mail**     | [steve@teamninjathumbs.com](mailto:steve@teamninjathumbs.com)
