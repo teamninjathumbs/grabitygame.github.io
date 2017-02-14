@@ -7,7 +7,7 @@ header:
   image: /assets/images/Grabity.jpg
 ---
 
-## Overview
+## overview
 
 Dance the tango of death in Grabity, a fast-paced, multiplayer, physics-based arena brawler in which combat robots duke it out using grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
 

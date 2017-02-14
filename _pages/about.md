@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "about"
 layout: single
 permalink: /about/
 header:
@@ -9,23 +9,23 @@ header:
 Ninja Thumbs is a small independent game studio based in Auckland, New Zealand.   We started off doing game jams, but soon realized that we wanted to take on a bigger project together.  [Grabity](/grabity/) is a side project that quickly grew into a serious undertaking when we realized we had a really fun prototype on our hands.
 
 
-## Social Media
+## social media
 Feel free to get in touch!
 
 ------------ | -------------
 **Twitter**  | [@teamninjathumbs](http://twitter.com/teamninjathumbs)
 **Mail**     | [info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)
 
-## The Team
+## the team
 
-### Moritz Schlitter
+### moritz schlitter
 
 ------------ | -------------
 **Role**     | Lead Artist
 **Mail**     | [moritz@teamninjathumbs.com](mailto:moritz@teamninjathumbs.com)
 **Twitter**  | [@momoschli](http://twitter.com/momoschli)
 
-### Steve Salmond
+### steve salmond
 
 ------------ | -------------
 **Role**     | Lead Programmer
