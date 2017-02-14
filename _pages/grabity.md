@@ -1,5 +1,6 @@
 ---
 title: "Grabity"
+layout: single
 permalink: /grabity/
 header:
   image: /assets/images/Grabity.jpg
