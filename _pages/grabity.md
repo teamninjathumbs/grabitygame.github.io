@@ -1,5 +1,6 @@
 ---
 title: "Grabity"
+permalink: /grabity/
 header:
   image: /assets/images/Grabity.jpg
 ---
