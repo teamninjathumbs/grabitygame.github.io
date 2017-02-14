@@ -7,14 +7,15 @@ header:
 ---
 
 ## About
-Team Ninja Thumbs is a small independent game studio based in Auckland, New Zealand.   We started off doing game jams, but soon realized that we wanted to take on a bigger project together.  [Grabity](/grabity/) was a side project that quickly grew into a serious undertaking when we realized we had a really fun prototype on our hands.
+Team Ninja Thumbs is a small independent game studio based in Auckland, New Zealand.   We started off doing game jams, but soon realized that we wanted to take on a bigger project together.  [Grabity](/grabity/) is a side project that quickly grew into a serious undertaking when we realized we had a really fun prototype on our hands.
 
 
 ## Social Media
+Feel free to get in touch!
 
 ------------ | -------------
 **Twitter**  | [@teamninjathumbs](http://twitter.com/teamninjathumbs)
-**Mail**     |  [info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)
+**Mail**     | [info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)
 
 ## The Team
 
