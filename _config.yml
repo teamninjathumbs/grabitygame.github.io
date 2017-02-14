@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Team Ninja Thumbs"
+title                    : "Ninja Thumbs"
 title_separator          : "-"
-name                     : "Team Ninja Thumbs"
+name                     : "Ninja Thumbs"
 description              : "An indie game development studio."
 url                      : "http://teamninjathumbs.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "teamninjathumbs/teamninjathumbs.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Team Ninja Thumbs"
+  name             : "Ninja Thumbs"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An indie game development studio."
   location         : "Auckland, New Zealand"
