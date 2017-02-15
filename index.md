@@ -1,7 +1,9 @@
 ---
 layout: home
 header:
-  image: /assets/images/Splash.jpg
+  image: /assets/images/Grabity.jpg
 ---
 
-Ninja Thumbs is a small independent game studio based in Auckland, New Zealand.   We started off doing game jams, but soon realized that we wanted to take on a bigger project together.  [Grabity](/grabity/) is a side project that quickly grew into a serious undertaking when we realized we had a really fun prototype on our hands.
+Dance the tango of death in Grabity, a fast-paced, multiplayer, physics-based arena brawler in which combat robots duke it out using grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
+
+Requiring both twitch reflexes and a tactical mindset, players must outmaneuver and outwit their foes, turning gravity to their advantage, predicting the paths of both projectiles and rival players to secure a brutal hit while snatching their next crate in mid-air. Throughout the frenetic mêlée, the arena evolves kinetically as players smash, grab and loot their surroundings – jostling for the upper hand in a contest of aerial agility, dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the limited environmental ammo.
