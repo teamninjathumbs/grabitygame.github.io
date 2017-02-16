@@ -3,7 +3,6 @@ title: "Grabity"
 tagline: "Robot Battle Testing"
 layout: single
 permalink: /grabity/
-author: Ninja Thumbs
 
 galleryLevels:
   - url: /assets/images/levels/warehouse.jpg
