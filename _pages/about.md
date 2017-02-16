@@ -25,9 +25,9 @@ Feel free to get in touch!
 
 ## The team
 
-![image-left](/assets/images/bio-photo-moritz.jpg){: .align-left}
-
 ### Moritz Schlitter
+
+![image-left](/assets/images/bio-photo-moritz.jpg){: .align-left}
 
 ------------ | -------------
 **Role**     | Lead Artist
@@ -35,9 +35,9 @@ Feel free to get in touch!
 **Twitter**  | [@momoschli](http://twitter.com/momoschli)
 
 
-![image-left](/assets/images/bio-photo-steve.jpg){: .align-left}
-
 ### Steve Salmond
+
+![image-left](/assets/images/bio-photo-steve.jpg){: .align-left}
 
 ------------ | -------------
 **Role**     | Lead Programmer
