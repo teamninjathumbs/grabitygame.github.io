@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Ninja Thumbs Limited"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo-ninja-thumbs.jpg"
   bio              : "An indie game development studio."
   location         : "Auckland, New Zealand"
   email            : info@teamninjathumbs.com
