@@ -1,4 +1,4 @@
-{% if page.author_profile or layout.author_profile or page.sidebar %}
+{% if page.author_profile or layout.author_profile or page.sidebar or page.twitter_feed %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}
   {% if page.sidebar %}
@@ -19,5 +19,6 @@
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
   {% endif %}
+  {% if page.twitter_feed or layout.twitter_feed %}{% include twitter-feed.html %}{% endif %}
   </div>
 {% endif %}
