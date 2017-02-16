@@ -1,5 +1,4 @@
 ---
-title: "GRABITY"
 layout: splash
 header:
   overlay_color: "#000"
