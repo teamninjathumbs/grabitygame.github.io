@@ -1,9 +1,9 @@
 ---
-title: "Grabity"
+title: "GRABITY"
 layout: splash
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.0"
   overlay_image: /assets/images/Splash.jpg
   cta_label: "Learn More"
   cta_url: "/grabity/"
