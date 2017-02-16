@@ -68,6 +68,11 @@ Players subvert gravity by means of Grab guns, seizing nearby objects and using 
 
 It all makes for a frenetic, fast-paced game in which the arena evolves kinetically as players smash, grab and loot their surroundings – dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the last of the environmental ammo. Intuitive twin-stick controls provide a fluid experience that’s simple to learn but hard to master.
 
+
+## Screenshots
+
+{% include gallery id="galleryScreenshots" %}
+
 ## Features
 
 - 2-4 person local multiplayer for maximum couch trash-talk
@@ -118,7 +123,3 @@ In this mode, players can only score by grabbing and holding on to the King Crat
 ### Juggernaut
 
 An interesting mode where players increase in size as their killstreak goes up.  Can make things more fun if one player has more experience with the game than the others.
-
-## Screenshots
-
-{% include gallery id="galleryScreenshots" %}
