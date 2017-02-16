@@ -30,6 +30,27 @@ galleryLevels:
     alt: "Tutorial"
     title: "Tutorial"
 
+galleryScreenshots:
+  - url: /assets/images/screenshots/screenshot_01.jpg
+    image_path: /assets/images/screenshots/screenshot_01.jpg
+  - url: /assets/images/screenshots/screenshot_02.jpg
+    image_path: /assets/images/screenshots/screenshot_02.jpg
+  - url: /assets/images/screenshots/screenshot_03.jpg
+    image_path: /assets/images/screenshots/screenshot_03.jpg
+  - url: /assets/images/screenshots/screenshot_04.jpg
+    image_path: /assets/images/screenshots/screenshot_04.jpg
+  - url: /assets/images/screenshots/screenshot_05.jpg
+    image_path: /assets/images/screenshots/screenshot_05.jpg
+  - url: /assets/images/screenshots/screenshot_06.jpg
+    image_path: /assets/images/screenshots/screenshot_06.jpg
+  - url: /assets/images/screenshots/screenshot_07.jpg
+    image_path: /assets/images/screenshots/screenshot_07.jpg
+  - url: /assets/images/screenshots/screenshot_08.jpg
+    image_path: /assets/images/screenshots/screenshot_08.jpg
+  - url: /assets/images/screenshots/screenshot_09.jpg
+    image_path: /assets/images/screenshots/screenshot_09.jpg
+
+
 ---
 
 Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
@@ -82,9 +103,7 @@ Pickups are special items that can augment combat bots in a number of ways:
 
 Clashes take place in a variety of harsh and hazardous robot testing arenas, stylish, futuristic junkyards designed to evolve with the battle as the players grab, launch and smash objects around them. The gritty, dystopian setting is balanced by magical moments of manic, slapstick comedy as players squabble over ammo and try to outmaneuver and outwit their opponents.
 
-{% include gallery id="galleryLevels" caption="Some of the Arena levels in Grabity" %}
-
-## Screenshots
+{% include gallery id="galleryLevels" %}
 
 ## Game Modes
 
@@ -99,3 +118,7 @@ In this mode, players can only score by grabbing and holding on to the King Crat
 ### Juggernaut
 
 An interesting mode where players increase in size as their killstreak goes up.  Can make things more fun if one player has more experience with the game than the others.
+
+## Screenshots
+
+{% include gallery id="galleryScreenshots" %}
