@@ -1,5 +1,13 @@
 # /_data/authors.yml
 
+Ninja Thumbs:
+  name: "Ninja Thumbs"
+  uri: "http://teambinjathumbs.com"
+  email: "info@teamninjathumbs.com"
+  bio: "A small independent game studio based in Auckland, New Zealand"
+  avatar: "/assets/images/bio-photo-ninja-thumbs.jpg"
+  twitter: "TeamNinjaThumbs"
+
 Steve Salmond:
   name: "Steve Salmond"
   uri: "http://teambinjathumbs.com/about"
