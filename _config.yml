@@ -81,8 +81,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "An indie game development studio."
   location         : "Auckland, New Zealand"
-  email            :
-  uri              :
+  email            : info@teamninjathumbs.com
+  uri              : "http://teamninjathumbs.com"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -104,7 +104,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCFskeSleY3N0wrCniiuRkLA"
 
 
 # Reading Files
