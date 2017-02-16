@@ -1,9 +1,8 @@
 ---
-layout: home
+layout: splash
 header:
   image: /assets/images/Grabity.jpg
+  cta_label: "Learn More"
+  cta_url: "/grabity/"
+excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler."
 ---
-
-Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
-
-Requiring both twitch reflexes and a tactical mindset, players must outmaneuver and outwit their foes, turning gravity to their advantage, predicting the paths of both projectiles and rival players to secure a brutal hit while snatching their next crate in mid-air. Throughout the frenetic mêlée, the arena evolves kinetically as players smash, grab and loot their surroundings – jostling for the upper hand in a contest of aerial agility, dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the limited environmental ammo.
