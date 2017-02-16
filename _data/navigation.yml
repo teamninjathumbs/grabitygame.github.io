@@ -17,3 +17,24 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+grabity:
+- title: Grabity
+  children:
+    - title: "Overview"
+      url: /grabity/#overview
+    - title: "Gameplay"
+      url: /grabity/#gameplay
+    - title: "Screenshots"
+      url: /grabity/#screenshots
+    - title: "Features"
+      url: /grabity/#features
+    - title: "Items"
+      url: /grabity/#items
+    - title: "Pickups"
+      url: /grabity/#pickups
+    - title: "Levels"
+      url: /grabity/#levels
+    - title: "Game Modes"
+      url: /grabity/#game-modes
