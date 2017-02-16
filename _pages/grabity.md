@@ -3,6 +3,29 @@ title: "Grabity"
 tagline: "Robot Battle Testing"
 layout: single
 permalink: /grabity/
+
+gallery:
+  - url: /assets/images/levels/warehouse.jpg
+    image_path: /assets/images/levels/warehouse.jpg
+    alt: "Warehouse"
+    title: "Warehouse"
+  - url: /assets/images/levels/airvents.jpg
+    image_path: /assets/images/levels/airvents.jpg
+    alt: "Airvents"
+    title: "Airvents"
+  - url: /assets/images/levels/antigravity.jpg
+    image_path: /assets/images/levels/antigravity.jpg
+    alt: "Antigravity"
+    title: "Antigravity"
+  - url: /assets/images/levels/foundry.jpg
+    image_path: /assets/images/levels/foundry.jpg
+    alt: "Foundry"
+    title: "Foundry"
+  - url: /assets/images/levels/railcarts.jpg
+    image_path: /assets/images/levels/railcarts.jpg
+    alt: "Railcarts"
+    title: "Railcarts"
+
 ---
 
 Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
@@ -54,6 +77,8 @@ Pickups are special items that can augment combat bots in a number of ways:
 ## Levels
 
 Clashes take place in a variety of harsh and hazardous robot testing arenas, stylish, futuristic junkyards designed to evolve with the battle as the players grab, launch and smash objects around them. The gritty, dystopian setting is balanced by magical moments of manic, slapstick comedy as players squabble over ammo and try to outmaneuver and outwit their opponents.
+
+{% include gallery caption="Some of the Arena levels in Grabity" %}
 
 ## Screenshots
 
