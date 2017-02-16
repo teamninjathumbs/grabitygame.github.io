@@ -7,18 +7,18 @@ permalink: /grabity/
 
 Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
 
-## Gameplay
-
-Players subvert gravity by means of Grab guns, seizing nearby objects and using them as projectiles to pulverize the opposition, or as makeshift shields to block inbound items. Players need twitch reflexes and precise aiming skills, but Grabity also rewards tactical thinkers who can outmaneuver and outwit opponents in this intense, chaotic tango of death. Jostling for position in a contest of aerial agility, players must turn gravity to their advantage, predicting the trajectories of both projectiles and rival players to secure a brutal hit while snatching their next crate in midair: lobbing objects while blocking attacks, mêlée ebbing and flowing in an elastic ‘footsie battle’ style.
-
-It all makes for a frenetic, fast-paced game in which the arena evolves kinetically as players smash, grab and loot their surroundings – dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the last of the environmental ammo. Intuitive twin-stick controls provide a fluid experience that’s simple to learn but hard to master.
-
 <figure>
 	<video autoplay loop width="100%" height="100%">
 		<source src="/assets/videos/gameplay_01.mp4" type="video/mp4">
 		Your browser does not support the video tag.
 	</video>
 </figure>
+
+## Gameplay
+
+Players subvert gravity by means of Grab guns, seizing nearby objects and using them as projectiles to pulverize the opposition, or as makeshift shields to block inbound items. Players need twitch reflexes and precise aiming skills, but Grabity also rewards tactical thinkers who can outmaneuver and outwit opponents in this intense, chaotic tango of death. Jostling for position in a contest of aerial agility, players must turn gravity to their advantage, predicting the trajectories of both projectiles and rival players to secure a brutal hit while snatching their next crate in midair: lobbing objects while blocking attacks, mêlée ebbing and flowing in an elastic ‘footsie battle’ style.
+
+It all makes for a frenetic, fast-paced game in which the arena evolves kinetically as players smash, grab and loot their surroundings – dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the last of the environmental ammo. Intuitive twin-stick controls provide a fluid experience that’s simple to learn but hard to master.
 
 ## Features
 
@@ -46,7 +46,7 @@ Grabity features a variety of special grabbable items in addition to regular cra
 
 Pickups are special items that can augment combat bots in a number of ways:
 
-- **Healthpacks** contain nano-repair machines that quickly restore a bot's combat effectiveness in the field
+- **Health Packs** contain nano-repair machines that quickly restore a bot's combat effectiveness in the field
 - **Damage Boosts** augment a bot's biomuscle effectors to yield greatly increased strength
 - **Speed Boosts** divert power to a bot's legs and maneuvering thrusters
 - **Shield Bubbles** generate a short-term force sphere that nullifies incoming damage
@@ -61,3 +61,12 @@ Clashes take place in a variety of harsh and hazardous robot testing arenas, sty
 
 ### Low Gravity
 
+For a unique twist, try Low Gravity mode - where everything bobs and floats in a sea of confusion!  Players must adapt their gameplay style to cope with a fundamentally different physics mode.
+
+### King of the Crate
+
+In this mode, players can only score by grabbing and holding on to the King Crate, but there is only one!  Should you retain the King Crate and increase your score, or throw it to defeat an enemy coming to steal it from you?
+
+### Juggernaut
+
+An interesting mode where players increase in size as their killstreak goes up.  Can make things more fun if one player has more experience with the game than the others.
