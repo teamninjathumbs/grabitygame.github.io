@@ -5,7 +5,9 @@ layout: single
 permalink: /grabity/
 author_profile: true
 share: true
-sidebar: grabity
+
+sidebar: 
+  nav: "grabity"
 
 galleryLevels:
   - url: /assets/images/levels/warehouse.jpg
