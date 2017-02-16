@@ -58,9 +58,7 @@ galleryScreenshots:
 
 ---
 
-[](#overview)
-
-Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
+[](#overview) Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
 
 <figure>
 	<video autoplay loop width="100%" height="100%">
@@ -70,24 +68,19 @@ Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. 
 </figure>
 
 
-[](#gameplay)
-
-## Gameplay
+## Gameplay [](#gameplay)
 
 Players subvert gravity by means of Grab guns, seizing nearby objects and using them as projectiles to pulverize the opposition, or as makeshift shields to block inbound items. Players need twitch reflexes and precise aiming skills, but Grabity also rewards tactical thinkers who can outmaneuver and outwit opponents in this intense, chaotic tango of death. Jostling for position in a contest of aerial agility, players must turn gravity to their advantage, predicting the trajectories of both projectiles and rival players to secure a brutal hit while snatching their next crate in midair: lobbing objects while blocking attacks, mêlée ebbing and flowing in an elastic ‘footsie battle’ style.
 
 It all makes for a frenetic, fast-paced game in which the arena evolves kinetically as players smash, grab and loot their surroundings – dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the last of the environmental ammo. Intuitive twin-stick controls provide a fluid experience that’s simple to learn but hard to master.
 
 
-[](#screenshots)
-
-## Screenshots
+## Screenshots [](#screenshots)
 
 {% include gallery id="galleryScreenshots" %}
 
-[](#features)
 
-## Features
+## Features [](#features)
 
 - 2-4 person local multiplayer for maximum couch trash-talk
 - Side-on 2.5D gameplay, fully rendered in 3D with real-time lighting and physics
@@ -96,9 +89,8 @@ It all makes for a frenetic, fast-paced game in which the arena evolves kinetica
 - Custom game modes such as Low Gravity, King of the Crate and Juggernaut
 - Choose from several Arenas, each hosting a unique set of tactical choices
 
-[](#items)
 
-## Items
+## Items [](#items)
 
 Grabity features a variety of special grabbable items in addition to regular crates and canisters.  One of these can give you the edge over your opponents, but players must balance risk versus reward when attempting to make use of them.
 
@@ -111,9 +103,8 @@ Grabity features a variety of special grabbable items in addition to regular cra
 - **Cluster Grenades** spawn mini-grenades when thrown
 - **Supply Crates** spawn a pickup when broken open
 
-[](#pickups)
 
-## Pickups
+## Pickups [](#pickups)
 
 Pickups are special items that can augment combat bots in a number of ways:
 
@@ -122,17 +113,15 @@ Pickups are special items that can augment combat bots in a number of ways:
 - **Speed Boosts** divert power to a bot's legs and maneuvering thrusters
 - **Shield Bubbles** generate a short-term force sphere that nullifies incoming damage
 
-[](#levels)
 
-## Levels
+## Levels [](#levels)
 
 Clashes take place in a variety of harsh and hazardous robot testing arenas, stylish, futuristic junkyards designed to evolve with the battle as the players grab, launch and smash objects around them. The gritty, dystopian setting is balanced by magical moments of manic, slapstick comedy as players squabble over ammo and try to outmaneuver and outwit their opponents.
 
 {% include gallery id="galleryLevels" %}
 
-[](#game-modes)
 
-## Game Modes
+## Game Modes [](#game-modes)
 
 ### Low Gravity
 
