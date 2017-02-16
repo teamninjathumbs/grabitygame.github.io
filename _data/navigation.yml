@@ -23,7 +23,7 @@ grabity:
 - title: Grabity
   children:
     - title: "Overview"
-      url: /grabity/
+      url: /grabity/#overview
     - title: "Gameplay"
       url: /grabity/#gameplay
     - title: "Screenshots"
