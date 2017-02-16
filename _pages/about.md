@@ -4,14 +4,14 @@ layout: single
 permalink: /about/
 ---
 
+Ninja Thumbs is a small independent game studio based in Auckland, New Zealand.   We started off doing game jams, but soon realized that we wanted to take on a bigger project together.  [Grabity](/grabity/) is a side project that quickly grew into a serious undertaking when we realized we had a really fun prototype on our hands.
+
 <figure>
-	<video autoplay loop width="100%" height="100%">
+	<video autoplay width="100%" height="100%">
 		<source src="/assets/videos/ninja_thumbs.mp4" type="video/mp4">
 		Your browser does not support the video tag.
 	</video>
 </figure>
-
-Ninja Thumbs is a small independent game studio based in Auckland, New Zealand.   We started off doing game jams, but soon realized that we wanted to take on a bigger project together.  [Grabity](/grabity/) is a side project that quickly grew into a serious undertaking when we realized we had a really fun prototype on our hands.
 
 
 ## Social media
