@@ -27,8 +27,6 @@ Feel free to get in touch!
 
 ### Moritz Schlitter
 
-![image-left](/assets/images/bio-photo-moritz.jpg){: .align-left}
-
 ------------ | -------------
 **Role**     | Lead Artist
 **Mail**     | [moritz@teamninjathumbs.com](mailto:moritz@teamninjathumbs.com)
@@ -36,8 +34,6 @@ Feel free to get in touch!
 
 
 ### Steve Salmond
-
-![image-left](/assets/images/bio-photo-steve.jpg){: .align-left}
 
 ------------ | -------------
 **Role**     | Lead Programmer
