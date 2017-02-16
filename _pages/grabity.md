@@ -4,6 +4,7 @@ tagline: "Robot Battle Testing"
 layout: single
 permalink: /grabity/
 author_profile: true
+share: true
 
 galleryLevels:
   - url: /assets/images/levels/warehouse.jpg
