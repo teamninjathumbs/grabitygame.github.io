@@ -25,12 +25,17 @@ Feel free to get in touch!
 
 ## The team
 
+![image-left](/assets/images/bio-photo-moritz.jpg){: .align-left}
+
 ### Moritz Schlitter
 
 ------------ | -------------
 **Role**     | Lead Artist
 **Mail**     | [moritz@teamninjathumbs.com](mailto:moritz@teamninjathumbs.com)
 **Twitter**  | [@momoschli](http://twitter.com/momoschli)
+
+
+![image-left](/assets/images/bio-photo-steve.jpg){: .align-left}
 
 ### Steve Salmond
 
