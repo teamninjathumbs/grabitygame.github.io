@@ -4,9 +4,6 @@ permalink: /grabity/
 author_profile: true
 share: true
 
-sidebar: 
-  nav: "grabity"
-
 galleryLevels:
   - url: /assets/images/levels/warehouse.jpg
     image_path: /assets/images/levels/warehouse.jpg
@@ -56,13 +53,9 @@ galleryScreenshots:
 
 ---
 
-{% include toc %}
-
 <img src="/assets/images/grabity-logo-dark.png">
 
 Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
-
-[](#top)
 
 <figure>
 	<video autoplay loop width="100%" height="100%">
@@ -72,7 +65,7 @@ Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. 
 </figure>
 
 
-[](#gameplay)
+{% include toc %}
 
 ## Gameplay
 
@@ -81,13 +74,10 @@ Players subvert gravity by means of Grab guns, seizing nearby objects and using 
 It all makes for a frenetic, fast-paced game in which the arena evolves kinetically as players smash, grab and loot their surroundings – dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the last of the environmental ammo. Intuitive twin-stick controls provide a fluid experience that’s simple to learn but hard to master.
 
 
-[](#screenshots)
-
 ## Screenshots
 
 {% include gallery id="galleryScreenshots" %}
 
-[](#features)
 
 ## Features
 
@@ -98,7 +88,6 @@ It all makes for a frenetic, fast-paced game in which the arena evolves kinetica
 - Custom game modes such as Low Gravity, King of the Crate and Juggernaut
 - Choose from several Arenas, each hosting a unique set of tactical choices
 
-[](#items)
 
 ## Items
 
@@ -113,7 +102,6 @@ Grabity features a variety of special grabbable items in addition to regular cra
 - **Cluster Grenades** spawn mini-grenades when thrown
 - **Supply Crates** spawn a pickup when broken open
 
-[](#pickups)
 
 ## Pickups
 
@@ -124,7 +112,6 @@ Pickups are special items that can augment combat bots in a number of ways:
 - **Speed Boosts** divert power to a bot's legs and maneuvering thrusters
 - **Shield Bubbles** generate a short-term force sphere that nullifies incoming damage
 
-[](#levels)
 
 ## Levels
 
@@ -132,7 +119,6 @@ Clashes take place in a variety of harsh and hazardous robot testing arenas, sty
 
 {% include gallery id="galleryLevels" %}
 
-[](#game-modes)
 
 ## Game Modes
 
