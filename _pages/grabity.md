@@ -65,8 +65,6 @@ Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. 
 </figure>
 
 
-{% include toc %}
-
 ## Gameplay
 
 Players subvert gravity by means of Grab guns, seizing nearby objects and using them as projectiles to pulverize the opposition, or as makeshift shields to block inbound items. Players need twitch reflexes and precise aiming skills, but Grabity also rewards tactical thinkers who can outmaneuver and outwit opponents in this intense, chaotic tango of death. Jostling for position in a contest of aerial agility, players must turn gravity to their advantage, predicting the trajectories of both projectiles and rival players to secure a brutal hit while snatching their next crate in midair: lobbing objects while blocking attacks, mêlée ebbing and flowing in an elastic ‘footsie battle’ style.
