@@ -25,48 +25,20 @@ galleryScreenshots:
     image_path: /assets/images/screenshots/screenshot_09.jpg
 
 sidebar:
-  - title: "Developer"
-    text: "[Ninja Thumbs](http://teamninjathumbs.com)"
+  - title: "Release Date"
+    text: "TBA"
+  - title: "Platforms"
+    text: "TBA"
+  - title: "Regular Price"
+    text: "TBA"
+  - title: "Press contact"
+    text: "[info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)"
+
 
 
 ---
 
 {% include toc icon="id-card"  title="Press" %}
-
-## Factsheet
-
-**Developer:**
-
-[Ninja Thumbs](http://teamninjathumbs.com)
-
-Based in Auckland, New Zealand
-
-**Release date:**
-
-TBA
-
-**Platforms**
-
-TBA
-
-**Website:**
-
-[teamninjathumbs.com](http://teamninjathumbs.com)
-
-**Regular Price:**
-
-- USD TBA
-- EUR TBA
-- NZD TBA
-
-**Press / Business contact:**
-
-[info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)
-
-**Social:**
-
-- [Twitter](http://twitter.com/TeamNinjaThumbs)
-- [Blog](http://teamninjathumbs.com/blog/)
 
 ## Description
 
