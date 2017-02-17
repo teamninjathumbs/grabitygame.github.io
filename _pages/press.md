@@ -26,8 +26,7 @@ galleryScreenshots:
 
 sidebar:
   - title: "Developer"
-    text: [Ninja Thumbs](http://teamninjathumbs.com)
-    text: Based in Auckland, New Zealand
+    text: "[Ninja Thumbs](http://teamninjathumbs.com)"
 
 
 ---
