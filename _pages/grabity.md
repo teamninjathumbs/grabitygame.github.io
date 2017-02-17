@@ -59,7 +59,7 @@ Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. 
 
 <figure>
 	<video autoplay loop width="100%" height="100%">
-		<source src="/assets/videos/gameplay_loop.mp4" type="video/mp4">
+		<source src="/assets/videos/gameplay_01.mp4" type="video/mp4">
 		Your browser does not support the video tag.
 	</video>
 </figure>

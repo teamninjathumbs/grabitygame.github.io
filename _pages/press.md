@@ -65,7 +65,7 @@ Grabity started out as a game jam in February 2016, and quickly evolved into som
 
 <figure>
 	<video autoplay loop width="100%" height="100%">
-		<source src="/assets/videos/gameplay_loop.mp4" type="video/mp4">
+		<source src="/assets/videos/gameplay_01.mp4" type="video/mp4">
 		Your browser does not support the video tag.
 	</video>
 	<figcaption>Some sample gameplay</figcaption>
