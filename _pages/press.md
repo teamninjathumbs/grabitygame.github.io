@@ -36,29 +36,37 @@ sidebar:
 ## Factsheet
 
 **Developer:**
+
 [Ninja Thumbs](http://teamninjathumbs.com)
+
 Based in Auckland, New Zealand
 
 **Release date:**
+
 TBA
 
 **Platforms**
+
 TBA
 
 **Website:**
+
 [teamninjathumbs.com](http://teamninjathumbs.com)
 
 **Regular Price:**
-USD TBA
-EUR TBA
-NZD TBA
+
+- USD TBA
+- EUR TBA
+- NZD TBA
 
 **Press / Business contact:**
-info@teamninjathumbs.com
+
+[info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)
 
 **Social:**
-[Twitter](http://twitter.com/TeamNinjaThumbs)
-[Blog](http://teamninjathumbs.com/blog/)
+
+- [Twitter](http://twitter.com/TeamNinjaThumbs)
+- [Blog](http://teamninjathumbs.com/blog/)
 
 ## Description
 
