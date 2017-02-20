@@ -24,11 +24,13 @@ galleryScreenshots:
   - url: /assets/images/screenshots/screenshot_09.jpg
     image_path: /assets/images/screenshots/screenshot_09.jpg
 
-galleryLogos:
+galleryGrabityLogos:
   - url: /assets/images/grabity-logo-black.png
     image_path: /assets/images/grabity-logo-black.png
   - url: /assets/images/grabity-logo-skull-black.png
     image_path: /assets/images/grabity-logo-skull-black.png
+
+galleryNinjaThumbsLogos:
   - url: /assets/images/ninja-thumbs-logotype-black.png
     image_path: /assets/images/ninja-thumbs-logotype-black.png
   - url: /assets/images/ninja-thumbs-logo.png
@@ -87,7 +89,13 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 
 ## Logo & Icon
 
-{% include gallery id="galleryLogos" %}
+### Grabity
+
+{% include gallery id="galleryGrabityLogos" %}
+
+### Ninja Thumbs
+
+{% include gallery id="galleryNinjaThumbsLogos" %}
 
 [Download logo files as .zip](/assets/images/logos.zip)
 {: .notice--info }
