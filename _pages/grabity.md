@@ -72,6 +72,11 @@ Players subvert gravity by means of Grab guns, seizing nearby objects and using 
 It all makes for a frenetic, fast-paced game in which the arena evolves kinetically as players smash, grab and loot their surroundings – dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the last of the environmental ammo. Intuitive twin-stick controls provide a fluid experience that’s simple to learn but hard to master.
 
 
+## Videos
+
+{% include video id="rt-fGm-quKM" provider="youtube" %}
+
+
 ## Screenshots
 
 {% include gallery id="galleryScreenshots" %}
