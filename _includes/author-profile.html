@@ -180,12 +180,6 @@
       {% endif %}
 
       {% if author.youtube %}
-<<<<<<< HEAD
-        <li><a href="https://www.youtube.com/channel/{{ author.youtube }}" itemprop="sameAs">
-          <i class="fa fa-fw fa-youtube-square" aria-hidden="true"></i> 
-          YouTube
-        </a></li>
-=======
         {% if author.youtube contains "://" %}
           <li>
             <a href="{{ author.youtube }}" itemprop="sameAs">
@@ -199,7 +193,6 @@
             </a>
           </li>
         {% endif %}
->>>>>>> upstream/master
       {% endif %}
 
       {% if author.soundcloud %}
