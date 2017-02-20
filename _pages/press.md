@@ -35,10 +35,8 @@ galleryLogos:
     image_path: /assets/images/ninja-thumbs-logo.png
 
 sidebar:
-  - title: "Press contact"
+  - title: "Contact"
     text: "[press@teamninjathumbs.com](mailto:press@teamninjathumbs.com)"
-  - title: "Business contact"
-    text: "[biz@teamninjathumbs.com](mailto:biz@teamninjathumbs.com)"
 
 
 ---
@@ -89,7 +87,7 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 
 ## Logo & Icon
 
-{% include gallery id="galleryLogo" %}
+{% include gallery id="galleryLogos" %}
 
 [Download logo files as .zip](/assets/images/logos.zip)
 {: .notice--info }
@@ -97,8 +95,6 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 ## Awards and Recognition
 
 - "Winner, [Kiwi Game Starter](http://nzgda.com/news/kiwi-game-starter-2016/)" - *Auckland, New Zealand, 7 September 2016*
-
-## Selected Articles
 
 
 ## Additional Links
