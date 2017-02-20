@@ -28,7 +28,7 @@ Feel free to get in touch!
 ### Moritz Schlitter
 
 ------------ | -------------
-**Role**     | Lead Artist
+**Role**     | Artist
 **Mail**     | [moritz@teamninjathumbs.com](mailto:moritz@teamninjathumbs.com)
 **Twitter**  | [@momoschli](http://twitter.com/momoschli)
 
@@ -36,7 +36,13 @@ Feel free to get in touch!
 ### Steve Salmond
 
 ------------ | -------------
-**Role**     | Lead Programmer
+**Role**     | Programmer
 **Mail**     | [steve@teamninjathumbs.com](mailto:steve@teamninjathumbs.com)
 **Twitter**  | [@stevesalmond](http://twitter.com/stevesalmond)
 **Website**  | [stevesalmond.com](http://stevesalmond.com)
+
+### Clark Aboud
+
+------------ | -------------
+**Role**     | Composer (Freelancer)
+**Website**  | [clarkaboud.com](http://clarkaboud.com)

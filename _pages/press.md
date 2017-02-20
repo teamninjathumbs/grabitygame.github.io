@@ -24,21 +24,27 @@ galleryScreenshots:
   - url: /assets/images/screenshots/screenshot_09.jpg
     image_path: /assets/images/screenshots/screenshot_09.jpg
 
-sidebar:
-  - title: "Release Date"
-    text: "TBA"
-  - title: "Platforms"
-    text: "TBA"
-  - title: "Regular Price"
-    text: "TBA"
-  - title: "Press contact"
-    text: "[info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)"
+galleryLogos:
+  - url: /assets/images/grabity-logo-black.png
+    image_path: /assets/images/grabity-logo-black.png
+  - url: /assets/images/grabity-logo-skull-black.png
+    image_path: /assets/images/grabity-logo-skull-black.png
+  - url: /assets/images/ninja-thumbs-logotype-black.png
+    image_path: /assets/images/ninja-thumbs-logotype-black.png
+  - url: /assets/images/ninja-thumbs-logo.png
+    image_path: /assets/images/ninja-thumbs-logo.png
 
+sidebar:
+  - title: "Press contact"
+    text: "[press@teamninjathumbs.com](mailto:press@teamninjathumbs.com)"
+  - title: "Business contact"
+    text: "[biz@teamninjathumbs.com](mailto:biz@teamninjathumbs.com)"
 
 
 ---
 
 {% include toc icon="id-card"  title="Press" %}
+
 
 ## Description
 
@@ -48,9 +54,11 @@ Players subvert gravity by means of Grab guns, seizing nearby objects and using 
 
 It all makes for a frenetic, fast-paced game in which the arena evolves kinetically as players smash, grab and loot their surroundings – dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the last of the environmental ammo. Intuitive twin-stick controls provide a fluid experience that’s simple to learn but hard to master.
 
+
 ## History
 
 Grabity started out as a game jam in February 2016, and quickly evolved into something more as we realized we had something really fun on our hands.  Since winning the 2016 Kiwi Game Starter Competition we've been hard at work making Grabity as awesome as possible!
+
 
 ## Features
 
@@ -71,11 +79,20 @@ Grabity started out as a game jam in February 2016, and quickly evolved into som
 	<figcaption>Some sample gameplay</figcaption>
 </figure>
 
+
 ## Images
 
 {% include gallery id="galleryScreenshots" %}
 
+If you have any specific requests for imagery, please don't hesitate to [get in touch!](mailto:info@teamninjathumbs.com)
+
+
 ## Logo & Icon
+
+{% include gallery id="galleryLogo" %}
+
+[Download logo files as .zip](/assets/images/logos.zip)
+{: .notice--info }
 
 ## Awards and Recognition
 
@@ -83,8 +100,35 @@ Grabity started out as a game jam in February 2016, and quickly evolved into som
 
 ## Selected Articles
 
+
 ## Additional Links
+
+### Original Soundtrack
+Grabity's music is being scored by Clark Aboud.  [clarkaboud.com](http://clarkaboud.com)
+
+### Development log
+Keep up to date on Grabity's progress through our dev blog.  [teamninjathumbs.com/blog/](http://teamninjathumbs.com/blog/)
+
 
 ## Team
 
+### Moritz Schlitter
+Artist
+
+### Steve Salmond
+Programmer
+
+### Clark Aboud
+[Composer, Freelancer](http://clarkaboud.com)
+
+
 ## Contact
+
+### Inqiries
+[info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)
+
+### Twitter
+[twitter.com/teamninjathumbs](http://twitter.com/teamninjathumbs)
+
+### Web
+[teamninjathumbs.com](http://teamninjathumbs.com)
