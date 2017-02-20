@@ -10,8 +10,8 @@ main:
   - title: "Blog"
     url: /blog/
 
-#  - title: "Press"
-#    url: /press/
+  - title: "Press"
+    url: /press/
 
 grabity:
 - title: Grabity
