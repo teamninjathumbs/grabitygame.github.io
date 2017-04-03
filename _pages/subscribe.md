@@ -2,7 +2,7 @@
 title: "Subscribe"
 layout: archive
 permalink: /subscribe/
-author_profile: true
+author_profile: false
 
 ---
 
