@@ -13,6 +13,9 @@ main:
   - title: "Press"
     url: /press/
 
+  - title: "Subscribe"
+    url: /subscribe/
+
 grabity:
 - title: Grabity
   children:
