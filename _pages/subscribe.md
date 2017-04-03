@@ -1,12 +1,10 @@
 ---
-title: "Subscribe"
+title: "Subscribe to our mailing list"
 layout: single
 permalink: /subscribe/
 author_profile: true
 
 ---
-
-## Subscribe to our mailing list
 
 Sign up to receive occasional updates on Grabity and to be notified when the game is released!
 
