@@ -1,8 +1,8 @@
 ---
 title: "Subscribe"
-layout: archive
+layout: single
 permalink: /subscribe/
-author_profile: false
+author_profile: true
 
 ---
 
