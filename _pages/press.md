@@ -125,6 +125,8 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 ## Awards and Recognition
 
 - "Winner, [Kiwi Game Starter](http://nzgda.com/news/kiwi-game-starter-2016/)" - *Auckland, New Zealand, 7 September 2016*
+- "Finalist, [Chromacon Art Awards](http://www.chromacon.co.nz/art-awards/)" - *Auckland, New Zealand, 8 April 2017*
+- "Finalist, [Play by Play Awards](http://www.playbyplay.co.nz/awards/)" - *Wellington, New Zealand, 22 April 2017*
 
 
 ## Additional Links
