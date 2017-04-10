@@ -25,16 +25,31 @@ galleryScreenshots:
     image_path: /assets/images/screenshots/screenshot_09.jpg
 
 galleryGrabityLogos:
-  - url: /assets/images/grabity-logo-black.png
-    image_path: /assets/images/grabity-logo-black.png
-  - url: /assets/images/grabity-logo-skull-black.png
-    image_path: /assets/images/grabity-logo-skull-black.png
+  - url: /assets/images/branding/grabity/grabity-logo-color.png
+    image_path: /assets/images/branding/grabity/grabity-logo-color.png
+  - url: /assets/images/branding/grabity/grabity-logo-black.png
+    image_path: /assets/images/branding/grabity/grabity-logo-black.png
+  - url: /assets/images/branding/grabity/grabity-logo-skull-black.png
+    image_path: /assets/images/branding/grabity/grabity-logo-skull-black.png
+  - url: /assets/images/branding/grabity/grabity-logo-skull-color.png
+    image_path: /assets/images/branding/grabity/grabity-logo-skull-color.png
+  - url: /assets/images/branding/grabity/grabity-profile-thumb.jpg
+    image_path: /assets/images/branding/grabity/grabity-profile-thumb.jpg
 
 galleryNinjaThumbsLogos:
-  - url: /assets/images/ninja-thumbs-logotype-black.png
-    image_path: /assets/images/ninja-thumbs-logotype-black.png
-  - url: /assets/images/ninja-thumbs-logo.png
-    image_path: /assets/images/ninja-thumbs-logo.png
+  - url: /assets/images/branding/ninja-thumbs/ninja-thumbs-logotype-black.png
+    image_path: /assets/images/branding/ninja-thumbs/ninja-thumbs-logotype-black.png
+  - url: /assets/images/branding/ninja-thumbs/ninja-thumbs-logo.png
+    image_path: /assets/images/branding/ninja-thumbs/ninja-thumbs-logo.png
+
+galleryGrabityAssets:
+  - url: /assets/images/branding/grabity/grabity-desktop.png
+    image_path: /assets/images/branding/grabity/grabity-desktop.png
+  - url: /assets/images/branding/grabity/grabity-profile-thumb.jpg
+    image_path: /assets/images/branding/grabity/grabity-profile-thumb.jpg
+  - url: /assets/images/grabity/grabity-button-mappings.jpg
+    image_path: /assets/images/grabity/grabity-button-mappings.jpg
+
 
 sidebar:
   - title: "Contact"
@@ -81,6 +96,8 @@ Grabity started out as a game jam in February 2016, and quickly evolved into som
 
 {% include video id="rt-fGm-quKM" provider="youtube" %}
 
+{% include video id="A03BZxTyt_g" provider="youtube" %}
+
 ## Images
 
 {% include gallery id="galleryScreenshots" %}
@@ -98,8 +115,12 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 
 {% include gallery id="galleryNinjaThumbsLogos" %}
 
-[Download logo files as .zip](/assets/images/logos.zip)
+[Download logo files as .zip](/assets/images/branding/logos.zip)
 {: .notice--info }
+
+## Visual Assets
+
+{% include gallery id="galleryGrabityAssets" %}
 
 ## Awards and Recognition
 
