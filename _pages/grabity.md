@@ -139,7 +139,7 @@ An interesting mode where players increase in size as their killstreak goes up. 
 
 ## Subscribe
 
-Subscribe to our mailing list to receive occasional updates on Grabity and to be notified when the game is released!
+Sign up to our mailing list and we'll let you know when Grabity is released!
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
