@@ -76,6 +76,8 @@ It all makes for a frenetic, fast-paced game in which the arena evolves kinetica
 
 {% include video id="rt-fGm-quKM" provider="youtube" %}
 
+{% include video id="A03BZxTyt_g" provider="youtube" %}
+
 
 ## Screenshots
 
