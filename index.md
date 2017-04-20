@@ -9,6 +9,7 @@ header:
   greenlight_label: "Greenlight"
   greenlight_url: "http://steamcommunity.com/sharedfiles/filedetails/?id=909132555"
   greenlight_image_url: /assets/images/greenlight/greenlight_cta.png
+  greenlight_button_url: /assets/images/greenlight/greenlight_button_small.png
 
 excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler."
 ---
@@ -20,7 +21,7 @@ excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena
 [Grabity is now on Greenlight!](http://steamcommunity.com/sharedfiles/filedetails/?id=909132555) - check it out and give it a thumbs up if you like it!
 
 <p class="notice--success">
-    <a href="{{ greenlight_path }}"><img src="{{ greenlight_image_url }}"></a>
+    <a href="{{ page.header.greenlight_url }}"><img src="{{ page.header.greenlight_image_url }}"></a>
 </p>
 
 ## Mailing List
