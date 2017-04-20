@@ -18,7 +18,7 @@ excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena
 
 <p class="notice--success">
     <a href="{{ page.header.greenlight_url }}"><img src="{{ page.header.greenlight_button_url }}"></a>
-    <a href="{{ page.header.greenlight_url }}">Grabity is now on Greenlight!</a> - check it out and give it a thumbs up if you like it!
+    <a href="{{ page.header.greenlight_url }}">Grabity is now on Greenlight!</a> - give it a thumbs up if you like it!
 </p>
 
 ## Mailing List
