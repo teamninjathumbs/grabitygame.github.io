@@ -70,7 +70,7 @@ Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. 
 
 <p class="notice--success">
     <a href="{{ page.greenlight_url }}"><img src="{{ page.greenlight_button_url }}"></a>
-    <a href="{{ page.greenlight_url }}">Grabity is now on Greenlight!</a> - check it out and give it a thumbs up if you like it!
+    <a href="{{ page.greenlight_url }}">Grabity is now on Greenlight!</a>
 </p>
 
 ## Gameplay
