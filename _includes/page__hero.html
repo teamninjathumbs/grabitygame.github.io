@@ -68,9 +68,11 @@
       {% if site.read_time and page.read_time %}
         <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}
-      {% if page.header.cta_url %}
+      {% if page.header.cta_url or page.header.subscribe_url or page.header.greenlight_url %}
         <p>
-          <a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          {% if page.header.cta_url %}
+            <a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
+          {% endif %}
           {% if page.header.subscribe_url %}
             <a href="{{ subscribe_path }}" class="btn btn--light-outline btn--large">{{ page.header.subscribe_label | default: "Subscribe" }}</a>
           {% endif %}
