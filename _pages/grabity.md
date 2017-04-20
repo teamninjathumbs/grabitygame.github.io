@@ -50,6 +50,10 @@ galleryScreenshots:
   - url: /assets/images/screenshots/screenshot_09.jpg
     image_path: /assets/images/screenshots/screenshot_09.jpg
 
+greenlight_label: "Greenlight"
+greenlight_url: "http://steamcommunity.com/sharedfiles/filedetails/?id=909132555"
+greenlight_button_url: /assets/images/greenlight/greenlight_button_small.png
+
 
 ---
 
@@ -64,6 +68,10 @@ Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. 
 	</video>
 </figure>
 
+<p class="notice--success">
+    <a href="{{ page.greenlight_url }}"><img src="{{ page.greenlight_button_url }}"></a>
+    <a href="{{ page.greenlight_url }}">Grabity is now on Greenlight!</a> - check it out and give it a thumbs up if you like it!
+</p>
 
 ## Gameplay
 

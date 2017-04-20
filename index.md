@@ -16,8 +16,6 @@ excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena
 
 {% include video id="X1QR3M7-hH0" provider="youtube" %}
 
-## Steam Greenlight
-
 <p class="notice--success">
     <a href="{{ page.header.greenlight_url }}"><img src="{{ page.header.greenlight_button_url }}"></a>
     <a href="{{ page.header.greenlight_url }}">Grabity is now on Greenlight!</a> - check it out and give it a thumbs up if you like it!
