@@ -22,6 +22,18 @@
   {% capture subscribe_path %}{{ page.header.subscribe_url | absolute_url }}{% endcapture %}
 {% endif %}
 
+{% if page.header.greenlight_url contains "://" %}
+  {% capture greenlight_path %}{{ page.header.greenlight_url }}{% endcapture %}
+{% else %}
+  {% capture greenlight_path %}{{ page.header.greenlight_url | absolute_url }}{% endcapture %}
+{% endif %}
+
+{% if page.header.greenlight_image_url contains "://" %}
+  {% capture greenlight_image_path %}{{ page.header.greenlight_image_url }}{% endcapture %}
+{% else %}
+  {% capture greenlight_image_path %}{{ page.header.greenlight_image_url | absolute_url }}{% endcapture %}
+{% endif %}
+
 {% if page.header.overlay_image contains "://" %}
   {% capture overlay_img_path %}{{ page.header.overlay_image }}{% endcapture %}
 {% elsif page.header.overlay_image %}
@@ -61,6 +73,9 @@
           <a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a>
           {% if page.header.subscribe_url %}
             <a href="{{ subscribe_path }}" class="btn btn--light-outline btn--large">{{ page.header.subscribe_label | default: "Subscribe" }}</a>
+          {% endif %}
+          {% if page.header.greenlight_url %}
+            <a href="{{ greenlight_path }}"><img src="{{ greenlight_image_path }}"></a>
           {% endif %}
         </p>
       {% endif %}
