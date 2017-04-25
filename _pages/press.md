@@ -153,4 +153,4 @@ Programmer
 [twitter.com/teamninjathumbs](http://twitter.com/teamninjathumbs)
 
 ### Web
-[teamninjathumbs.com](http://teamninjathumbs.com)
+[teamninjathumbs.com](https://teamninjathumbs.com)
