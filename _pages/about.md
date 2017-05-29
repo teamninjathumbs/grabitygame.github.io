@@ -21,7 +21,7 @@ Feel free to get in touch!
 
 ------------ | -------------
 **Twitter**  | [@teamninjathumbs](http://twitter.com/teamninjathumbs)
-**Mail**     | [info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)
+**Mail**     | [info@grabitygame.com](mailto:info@grabitygame.com)
 
 ## The team
 
@@ -29,7 +29,7 @@ Feel free to get in touch!
 
 ------------ | -------------
 **Role**     | Artist
-**Mail**     | [moritz@teamninjathumbs.com](mailto:moritz@teamninjathumbs.com)
+**Mail**     | [moritz@grabitygame.com](mailto:moritz@grabitygame.com)
 **Twitter**  | [@momoschli](http://twitter.com/momoschli)
 
 
@@ -37,7 +37,7 @@ Feel free to get in touch!
 
 ------------ | -------------
 **Role**     | Programmer
-**Mail**     | [steve@teamninjathumbs.com](mailto:steve@teamninjathumbs.com)
+**Mail**     | [steve@grabitygame.com](mailto:steve@grabitygame.com)
 **Twitter**  | [@stevesalmond](http://twitter.com/stevesalmond)
 **Website**  | [stevesalmond.com](http://stevesalmond.com)
 

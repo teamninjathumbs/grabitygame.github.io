@@ -53,7 +53,7 @@ galleryGrabityAssets:
 
 sidebar:
   - title: "Contact"
-    text: "[press@teamninjathumbs.com](mailto:press@teamninjathumbs.com)"
+    text: "[press@grabitygame.com](mailto:press@grabitygame.com)"
 
 
 ---
@@ -147,7 +147,7 @@ Programmer
 ## Contact
 
 ### Inqiries
-[info@teamninjathumbs.com](mailto:info@teamninjathumbs.com)
+[info@grabitygame.com](mailto:info@grabitygame.com)
 
 ### Twitter
 [twitter.com/teamninjathumbs](http://twitter.com/teamninjathumbs)
