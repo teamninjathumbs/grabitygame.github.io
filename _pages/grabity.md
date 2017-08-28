@@ -68,10 +68,12 @@ Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. 
 	</video>
 </figure>
 
+<!--
 <p class="notice--success">
     <a href="{{ page.greenlight_url }}"><img src="{{ page.greenlight_button_url }}"></a>
     <a href="{{ page.greenlight_url }}">Give Grabity a thumbs-up on Greenlight!</a>
 </p>
+-->
 
 ## Gameplay
 
