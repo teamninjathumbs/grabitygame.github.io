@@ -25,8 +25,8 @@ galleryScreenshots:
     image_path: /assets/images/screenshots/screenshot_09.jpg
 
 galleryGrabityLogos:
-  - url: /assets/images/branding/grabity/grabity-logo-color.png
-    image_path: /assets/images/branding/grabity/grabity-logo-color.png
+  - url: /assets/images/branding/grabity/grabity-logo.png
+    image_path: /assets/images/branding/grabity/grabity-logo.png
   - url: /assets/images/branding/grabity/grabity-logo-black.png
     image_path: /assets/images/branding/grabity/grabity-logo-black.png
   - url: /assets/images/branding/grabity/grabity-logo-skull-black.png
