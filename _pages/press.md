@@ -5,6 +5,12 @@ permalink: /press/
 author_profile: true
 
 galleryScreenshots:
+  - url: /assets/images/screenshots/pax/GrabityPromo_1920x1080.png
+    image_path: /assets/images/screenshots/pax/GrabityPromo_1920x1080.png
+  - url: /assets/images/screenshots/pax/20170705190257_1.jpg
+    image_path: /assets/images/screenshots/pax/20170705190257_1.jpg
+  - url: /assets/images/screenshots/pax/20170705185654_1.jpg
+    image_path: /assets/images/screenshots/pax/20170705185654_1.jpg
   - url: /assets/images/screenshots/screenshot_01.jpg
     image_path: /assets/images/screenshots/screenshot_01.jpg
   - url: /assets/images/screenshots/screenshot_02.jpg
