@@ -2,7 +2,7 @@
 title: "Subscribe to our mailing list"
 layout: single
 permalink: /subscribe/
-author_profile: true
+author_profile: false
 
 ---
 

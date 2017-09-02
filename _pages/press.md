@@ -2,7 +2,7 @@
 title: "Press"
 layout: single
 permalink: /press/
-author_profile: true
+author_profile: false
 
 galleryScreenshots:
   - url: /assets/images/screenshots/pax/GrabityPromo_1920x1080.png

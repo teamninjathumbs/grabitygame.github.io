@@ -1,13 +1,7 @@
 ---
-layout: splash
+layout: single
 title: Team Ninja Thumbs
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.0"
-  overlay_image: /assets/images/Splash.jpg
-  title_image: /assets/images/grabity-logo-small.png
-  cta_label: "Check it out!"
-  cta_url: "/grabity/"
+author_profile: false
 
 excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler."
 ---

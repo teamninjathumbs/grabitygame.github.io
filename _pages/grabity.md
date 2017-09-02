@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /grabity/
-author_profile: true
+author_profile: false
 share: true
 
 galleryLevels:
