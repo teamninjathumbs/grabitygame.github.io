@@ -18,10 +18,9 @@ excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena
 
 <center><img src="/assets/images/grabity-awards.png"></center>
 
-
 ## Mailing List
 
-Sign up to our mailing list and we'll let you know when Grabity is released!
+Sign up to our mailing list, and we'll let you know when Grabity is released!
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
