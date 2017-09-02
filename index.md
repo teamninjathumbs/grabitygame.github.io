@@ -56,6 +56,8 @@ Sign up to our mailing list and we'll let you know when Grabity is released!
 
 ## Awards and Recognition
 
+<center><img src="/assets/images/grabity-awards.png"></center>
+
 - "Winner, [PAX Aus Indie Showcase](http://aus.paxsite.com/indie/2017/08#grabity)" - *Melbourne, Australia, 27-29 October 2017*
 - "Winner, [Kiwi Game Starter](http://nzgda.com/news/kiwi-game-starter-2016/)" - *Auckland, New Zealand, 7 September 2016*
 - "Finalist, [Chromacon Art Awards](http://www.chromacon.co.nz/art-awards/)" - *Auckland, New Zealand, 8 April 2017*
