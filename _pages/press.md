@@ -1,6 +1,6 @@
 ---
 title: "Press"
-layout: single
+layout: splash
 permalink: /press/
 author_profile: false
 

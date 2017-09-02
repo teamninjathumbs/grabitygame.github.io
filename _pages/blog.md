@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-layout: archive
+layout: splash
 permalink: /blog/
 author_profile: false
 

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: Team Ninja Thumbs
 author_profile: false
 

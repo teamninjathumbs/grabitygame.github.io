@@ -1,6 +1,6 @@
 ---
 title: "Subscribe to our mailing list"
-layout: single
+layout: splash
 permalink: /subscribe/
 author_profile: false
 
