@@ -1,4 +1,5 @@
 ---
+title: "Grabity"
 layout: splash
 permalink: /grabity/
 author_profile: false

@@ -1,5 +1,5 @@
 ---
-title: "Subscribe to our mailing list"
+title: "Subscribe"
 layout: splash
 permalink: /subscribe/
 author_profile: false
