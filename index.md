@@ -6,22 +6,13 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/Splash.jpg
   title_image: /assets/images/grabity-logo-small.png
-  greenlight_label: "Greenlight"
-  greenlight_url: "http://steamcommunity.com/sharedfiles/filedetails/?id=909132555"
-  greenlight_image_url: /assets/images/greenlight/greenlight_cta.png
-  greenlight_button_url: /assets/images/greenlight/greenlight_button_small.png
+  cta_label: "Learn More"
+  cta_url: "/grabity/"
 
 excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler."
 ---
 
 {% include video id="X1QR3M7-hH0" provider="youtube" %}
-
-<!--
-<p class="notice--success">
-    <a href="{{ page.header.greenlight_url }}"><img src="{{ page.header.greenlight_button_url }}"></a>
-    <a href="{{ page.header.greenlight_url }}">Grabity is now on Greenlight!</a> - give it a thumbs up if you like it!
-</p>
--->
 
 ## Mailing List
 
@@ -65,7 +56,7 @@ Sign up to our mailing list and we'll let you know when Grabity is released!
 
 ## Awards and Recognition
 
+- "Winner, [PAX Aus Indie Showcase](http://aus.paxsite.com/indie/2017/08#grabity)" - *Melbourne, Australia, 27-29 October 2017*
 - "Winner, [Kiwi Game Starter](http://nzgda.com/news/kiwi-game-starter-2016/)" - *Auckland, New Zealand, 7 September 2016*
 - "Finalist, [Chromacon Art Awards](http://www.chromacon.co.nz/art-awards/)" - *Auckland, New Zealand, 8 April 2017*
 - "Finalist, [Play by Play Awards](http://www.playbyplay.co.nz/awards/)" - *Wellington, New Zealand, 22 April 2017*
-- "Winner, [PAX Aus Indie Showcase](http://aus.paxsite.com/indie/2017/08#grabity)" - *Melbourne, Australia, 27-29 October 2017*
