@@ -66,7 +66,7 @@ greenlight_button_url: /assets/images/greenlight/greenlight_button_small.png
 
 <img src="/assets/images/grabity-logo-small.png">
 
-Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
+Dance the tango of death in *GRABITY*, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
 
 <figure>
 	<video autoplay loop width="100%" height="100%">
