@@ -31,6 +31,12 @@ galleryLevels:
     title: "Tutorial"
 
 galleryScreenshots:
+  - url: /assets/images/screenshots/pax/GrabityPromo_1920x1080.png
+    image_path: /assets/images/screenshots/pax/GrabityPromo_1920x1080.png
+  - url: /assets/images/screenshots/pax/20170705190257_1.jpg
+    image_path: /assets/images/screenshots/pax/20170705190257_1.jpg
+  - url: /assets/images/screenshots/pax/20170705185654_1.jpg
+    image_path: /assets/images/screenshots/pax/20170705185654_1.jpg
   - url: /assets/images/screenshots/screenshot_01.jpg
     image_path: /assets/images/screenshots/screenshot_01.jpg
   - url: /assets/images/screenshots/screenshot_02.jpg
@@ -57,7 +63,7 @@ greenlight_button_url: /assets/images/greenlight/greenlight_button_small.png
 
 ---
 
-<img src="/assets/images/grabity-logo-dark.png">
+<img src="/assets/images/grabity-logo-small.png">
 
 Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
 
