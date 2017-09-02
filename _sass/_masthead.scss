@@ -46,6 +46,9 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-weight: bold;
+  font-style: italic;
+  text-transform: uppercase;
 
   &--lg {
     padding-right: 2em;
