@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/Splash.jpg
   title_image: /assets/images/grabity-logo-small.png
-  cta_label: "Learn More"
+  cta_label: "Check it out!"
   cta_url: "/grabity/"
 
 excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler."
