@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.0"
   overlay_image: /assets/images/Splash.jpg
   title_image: /assets/images/grabity-logo-small.png
-  cta_label: "Check it out!"
+  cta_label: "Learn more"
   cta_url: "/grabity/"
 
 excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler."
@@ -23,8 +23,6 @@ excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena
 - "Finalist, [Play by Play Awards](http://www.playbyplay.co.nz/awards/)" - *Wellington, New Zealand, 22 April 2017*
 
 <center><img src="/assets/images/grabity-awards.png"></center>
-
-
 
 ## Mailing List
 
