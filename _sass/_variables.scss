@@ -57,14 +57,17 @@ $body-color                 : #000 !default;
 $background-color           : #000 !default;
 $code-background-color      : $dark-gray !default;
 $code-background-color-dark : $darker-gray !default;
-$text-color                 : $lighter-gray !default;
+$text-color                 : $light-gray !default;
 $border-color               : $dark-gray !default;
+$table-border-color         : $darker-gray !default;
+$table-head-color           : $dark-gray !default;
+$heading-color              : #52adc8 !default;
 
 $primary-color              : #7a8288 !default;
 $success-color              : #62c462 !default;
 $warning-color              : #f89406 !default;
 $danger-color               : #ee5f5b !default;
-$info-color                 : #52adc8 !default;
+$info-color                 : #65e5d3 !default;
 
 /* brands */
 $behance-color              : #1769FF !default;
