@@ -6,6 +6,36 @@
    Typography
    ========================================================================== */
 
+$font-path:        "/assets/fonts"
+
+@font-face {
+  font-family: 'Cuyabra';
+  src: url('#{$font-path}/cuyabra.woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cuyabra';
+  src: url('#{$font-path}/cuyabra-oblique.woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Cuyabra';
+  src: url('#{$font-path}/cuyabra-bold.woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Cuyabra';
+  src: url('#{$font-path}/cuyabra-bold-oblique.woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
 $doc-font-size              : 16 !default;
 
 /* paragraph indention */
@@ -14,7 +44,7 @@ $indent-var                 : 1.3em !default;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif !default;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif                 : "Cuyabra", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
