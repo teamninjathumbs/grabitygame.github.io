@@ -2,13 +2,24 @@
 ---
 
 <!doctype html>
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js" data-stellar-background-ratio="0.25">
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
+
+    <script src="{{ '/assets/js/plugins/jquery.stellar.min.js' | absolute_url }}"></script>
+
+    <script>
+    $(function(){
+      $.stellar({
+        horizontalScrolling: false
+      });
+    });
+    </script>
+
   </head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" data-stellar-background-ratio="0.25">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
