@@ -1,4 +1,13 @@
 <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
+<script src="{{ '/assets/js/plugins/jquery.stellar.min.js' | absolute_url }}"></script>
+
+<script>
+$(function(){
+  $.stellar({
+    horizontalScrolling: false
+  });
+});
+</script>
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

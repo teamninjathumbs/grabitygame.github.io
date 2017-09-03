@@ -6,17 +6,7 @@
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-
-    <script src="{{ '/assets/js/plugins/jquery.stellar.min.js' | absolute_url }}"></script>
-
-    <script>
-    $(function(){
-      $.stellar({
-        horizontalScrolling: false
-      });
-    });
-    </script>
-
+    {% include scripts.html %}
   </head>
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" data-stellar-background-ratio="0.25">
@@ -32,8 +22,6 @@
         {% include footer.html %}
       </footer>
     </div>
-
-    {% include scripts.html %}
 
   </body>
 </html>
