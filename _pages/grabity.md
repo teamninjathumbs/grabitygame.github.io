@@ -68,13 +68,6 @@ greenlight_button_url: /assets/images/greenlight/greenlight_button_small.png
 
 Dance the tango of death in *GRABITY*, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
 
-<figure>
-	<video autoplay loop width="100%" height="100%">
-		<source src="/assets/videos/gameplay_01.mp4" type="video/mp4">
-		Your browser does not support the video tag.
-	</video>
-</figure>
-
 <!--
 <p class="notice--success">
     <a href="{{ page.greenlight_url }}"><img src="{{ page.greenlight_button_url }}"></a>
@@ -87,6 +80,13 @@ Dance the tango of death in *GRABITY*, a fast-paced, physics-based arena brawler
 Players subvert gravity by means of Grab guns, seizing nearby objects and using them as projectiles to pulverize the opposition, or as makeshift shields to block inbound items. Players need twitch reflexes and precise aiming skills, but Grabity also rewards tactical thinkers who can outmaneuver and outwit opponents in this intense, chaotic tango of death. Jostling for position in a contest of aerial agility, players must turn gravity to their advantage, predicting the trajectories of both projectiles and rival players to secure a brutal hit while snatching their next crate in midair: lobbing objects while blocking attacks, mêlée ebbing and flowing in an elastic ‘footsie battle’ style.
 
 It all makes for a frenetic, fast-paced game in which the arena evolves kinetically as players smash, grab and loot their surroundings – dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the last of the environmental ammo. Intuitive twin-stick controls provide a fluid experience that’s simple to learn but hard to master.
+
+<figure>
+  <video autoplay loop width="100%" height="100%">
+    <source src="/assets/videos/gameplay_01.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</figure>
 
 
 ## Videos
