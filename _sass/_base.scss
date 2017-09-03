@@ -3,13 +3,13 @@
    ========================================================================== */
 
 html {
-  /* sticky footer fix */
   position: relative;
   min-height: 100%;
   background-image: url($backdrop-image); 
   background-attachment: fixed;
   background-position: 50% 0;
   background-repeat: no-repeat;
+  data-stellar-background-ratio: 0.5;
 }
 
 body {
