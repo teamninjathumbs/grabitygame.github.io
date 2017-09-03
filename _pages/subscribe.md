@@ -1,10 +1,12 @@
 ---
-title: "Subscribe"
+title: "Mailing List"
 layout: splash
 permalink: /subscribe/
 author_profile: false
 
 ---
+
+## Mailing List
 
 Sign up to our mailing list and we'll let you know when Grabity is released!
 
