@@ -111,6 +111,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - assets/js/plugins
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
