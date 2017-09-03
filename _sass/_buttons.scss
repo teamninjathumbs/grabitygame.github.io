@@ -128,7 +128,7 @@
       background-color: $color;
 
       &:hover {
-        background-color: mix(#000, $color, 20%);
+        background-color: mix(#fff, $color, 20%);
       }
     }
   }

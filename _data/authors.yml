@@ -2,7 +2,6 @@
 
 Steve Salmond:
   name: "Steve Salmond"
-  uri: "https://www.teamninjathumbs.com/about"
   email: "steve@grabitygame.com"
   bio: "Coder at Ninja Thumbs"
   avatar: "/assets/images/bio-photo-steve.jpg"
@@ -10,7 +9,6 @@ Steve Salmond:
 
 Moritz Schlitter:
   name: "Moritz Schlitter"
-  uri: "https://www.teamninjathumbs.com/about"
   email: "moritz@grabitygame.com"
   bio: "Artist at Ninja Thumbs"
   avatar: "/assets/images/bio-photo-moritz.jpg"
