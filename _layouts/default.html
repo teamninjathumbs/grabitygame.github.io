@@ -8,7 +8,7 @@
     {% include head/custom.html %}
   </head>
 
-  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}" data-stellar-background-ratio="0.5">
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}

@@ -11,6 +11,13 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
+  position: relative;
+  min-height: 100%;
+  background-image: url($backdrop-image); 
+  background-attachment: fixed;
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+
   @include breakpoint($x-large) {
     max-width: $x-large;
   }

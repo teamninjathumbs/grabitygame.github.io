@@ -3,6 +3,7 @@
    ========================================================================== */
 
 html {
+  /* sticky footer fix */
   position: relative;
   min-height: 100%;
 }
@@ -10,14 +11,6 @@ html {
 body {
   margin: 0;
   padding: 0;
-
-  position: relative;
-  min-height: 100%;
-  background-image: url($backdrop-image); 
-  background-attachment: fixed;
-  background-position: 50% 0;
-  background-repeat: no-repeat;
-
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
