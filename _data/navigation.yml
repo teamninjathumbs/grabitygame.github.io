@@ -7,11 +7,11 @@ main:
   - title: "About"
     url: /about/
 
+  - title: "News"
+    url: /news/
+
   - title: "Press"
     url: /press/
-
-  - title: "Blog"
-    url: /blog/
 
   - title: "Mailing List"
     url: /subscribe/

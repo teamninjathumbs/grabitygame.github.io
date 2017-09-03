@@ -141,9 +141,6 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 ### Original Soundtrack
 Grabity's music is being scored by Clark Aboud.  [clarkaboud.com](http://clarkaboud.com)
 
-### Development log
-Keep up to date on Grabity's progress through our dev blog.  [teamninjathumbs.com/blog/](http://teamninjathumbs.com/blog/)
-
 
 ## Team
 

@@ -1,7 +1,7 @@
 ---
-title: "Blog"
+title: "News"
 layout: archive
-permalink: /blog/
+permalink: /news/
 author_profile: false
 
 ---
