@@ -156,7 +156,7 @@ Programmer
 
 ## Contact
 
-### Inqiries
+### Inquiries
 [info@grabitygame.com](mailto:info@grabitygame.com)
 
 ### Twitter
