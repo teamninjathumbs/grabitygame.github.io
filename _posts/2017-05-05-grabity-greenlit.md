@@ -1,5 +1,5 @@
 ---
-title: "Grabity has been Greenlit"
+title: "Grabity has been Greenlit!"
 layout: single
 excerpt: We made it, thanks everyone!
 author: Steve Salmond
