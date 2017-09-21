@@ -1,6 +1,5 @@
 ---
 layout: splash
-title: Team Ninja Thumbs
 author_profile: false
 
 excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena brawler."
