@@ -1,5 +1,5 @@
 ---
-title: "Press"
+title: "Presskit"
 layout: splash
 permalink: /press/
 author_profile: false
@@ -64,7 +64,7 @@ sidebar:
 
 ---
 
-{% include toc icon="id-card"  title="Press" %}
+{% include toc icon="id-card"  title="Presskit" %}
 
 
 ## Description
