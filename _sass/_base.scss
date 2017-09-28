@@ -34,11 +34,13 @@ h1 {
   margin-top: 0;
   font-size: $type-size-3;
   text-transform: uppercase;
+  text-shadow: 0 0 32px $heading-glow-color;
 }
 
 h2 {
   font-size: $type-size-4;
   text-transform: uppercase;
+  text-shadow: 0 0 16px $heading-glow-color;
 }
 
 h3 {
@@ -123,6 +125,7 @@ a {
   &:hover,
   &:active {
     outline: 0;
+    text-shadow: 0 0 16px $heading-glow-color;
   }
 }
 
