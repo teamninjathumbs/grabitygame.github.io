@@ -92,7 +92,7 @@ Grabity started out as a game jam in February 2016, and quickly evolved into som
 
 ## Videos
 
-{% include video id="X1QR3M7-hH0" provider="youtube" %}
+{% include video id="bYFIH6-HCdA" provider="youtube" %}
 
 {% include video id="rt-fGm-quKM" provider="youtube" %}
 
