@@ -91,7 +91,7 @@ It all makes for a frenetic, fast-paced game in which the arena evolves kinetica
 
 ## Videos
 
-{% include video id="X1QR3M7-hH0" provider="youtube" %}
+{% include video id="bYFIH6-HCdA" provider="youtube" %}
 
 {% include video id="rt-fGm-quKM" provider="youtube" %}
 
