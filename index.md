@@ -8,6 +8,10 @@ excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena
 {% include video id="bYFIH6-HCdA" provider="youtube" %}
 
 
+## Steam Page is Live!
+
+Grabity is now [**Coming Soon** on Steam](http://store.steampowered.com/app/652810/Grabity/) - feel free to wishlist! :)
+
 ## Awards and Recognition
 
 - "Winner, [PAX Aus Indie Showcase](http://aus.paxsite.com/indie/2017/08#grabity)" - *Melbourne, Australia, 27-29 October 2017*
