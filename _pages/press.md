@@ -98,6 +98,8 @@ Grabity started out as a game jam in February 2016, and quickly evolved into som
 
 {% include video id="A03BZxTyt_g" provider="youtube" %}
 
+{% include video id="e1cMofiaNNU" provider="youtube" %}
+
 ## Images
 
 {% include gallery id="galleryScreenshots" %}
@@ -131,10 +133,12 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 
 ## Selected Articles
 
-- [Grabity grabs New Zealand gaming glory](http://idealog.co.nz/venture/2016/09/grabity-grabs-nz-gaming-glory-world-domination-next) - *Ben Mack, [Idealog](http://idealog.co.nz)*
-- [Grabity: The Kiwi brawler that's Super Smash Bros. with gravity guns](https://www.gameplanet.co.nz/features/g595b17c7aa71c/Grabity-The-Kiwi-brawler-thats-Super-Smash-Bros.-with-gravity-guns/) - *Matt Maguire, [Gameplanet](https://www.gameplanet.co.nz/)*
+- [What We Liked From PAX Australia 2017](https://www.kotaku.com.au/2017/10/what-we-liked-from-pax-australia-2017/) - *Alex Walker, [Kotaku](https://www.kotaku.com.au/)*
+- [PAX AUS announces Indie Showcase 2017 winners](https://www.finder.com.au/pax-aus-indie-show-case-2017-winners) - *Brodie Fogg, [Finder](https://www.finder.com.au/)*
 - [PAX Aus Indie Showcase 2017 Winners](https://www.playerattack.com/news/2017/08/17/94077/pax-aus-indie-showcase-2017-winners/) - *Grace Hester, [Player Attack](https://www.playerattack.com)*
 - [Grabity and Sky Noon selected for PAX Aus Indie Showcase](https://www.gameplanet.co.nz/news/g5993ac0b87f54/Grabity-and-Sky-Noon-selected-for-PAX-Aus-Indie-Showcase/)  - *Matt Maguire, [Gameplanet](https://www.gameplanet.co.nz/)*
+- [Grabity grabs New Zealand gaming glory](http://idealog.co.nz/venture/2016/09/grabity-grabs-nz-gaming-glory-world-domination-next) - *Ben Mack, [Idealog](http://idealog.co.nz)*
+- [Grabity: The Kiwi brawler that's Super Smash Bros. with gravity guns](https://www.gameplanet.co.nz/features/g595b17c7aa71c/Grabity-The-Kiwi-brawler-thats-Super-Smash-Bros.-with-gravity-guns/) - *Matt Maguire, [Gameplanet](https://www.gameplanet.co.nz/)*
 
 ## Additional Links
 
