@@ -64,7 +64,7 @@ greenlight_button_url: /assets/images/greenlight/greenlight_button_small.png
 
 ---
 
-<img src="/assets/images/grabity-title.jpg">
+{% include video id="bYFIH6-HCdA" provider="youtube" %}
 
 Dance the tango of death in *GRABITY*, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
 
@@ -146,17 +146,30 @@ Clashes take place in a variety of harsh and hazardous robot testing arenas, sty
 
 ## Game Modes
 
-### Low Gravity
+### Deathmatch
 
-For a unique twist, try Low Gravity mode - where everything bobs and floats in a sea of confusion!  Players must adapt their gameplay style to cope with a fundamentally different physics mode.
+Classic free-for-all combat action.  Players choose a time limit, with the winner decided based on points.
+
+### Elimination
+
+Last bot standing!  Players receive a certain number of lives, and have to knock out their opponents in order to win.
 
 ### King of the Crate
 
-In this mode, players can only score by grabbing and holding on to the King Crate, but there is only one!  Should you retain the King Crate and increase your score, or throw it to defeat an enemy coming to steal it from you?
+In this mode, players can only score by grabbing and holding on to the King Crate - there is only one!  Should you retain the King Crate and increase your score, or throw it to smash an enemy coming to steal it from you?
 
 ### Juggernaut
 
-An interesting mode where players increase in size as their killstreak goes up.  Can make things more fun if one player has more experience with the game than the others.
+Every time you kill another bot, your bot gets larger and tougher.  On the flip-side, you become a much easier target for flying crates!  Can make things more fun if one player has more experience with the game than the others.
+
+### Craterball
+
+Shoot some hoops, crack some skulls in this frenetic basketball-style game mode.  Best played 2v2 with teams, but can also be configured for all-against-all craziness!
+
+### Low Gravity
+
+For a unique twist, try Low Gravity  - where everything bobs and floats in a sea of confusion!  Players must adapt their gameplay style to cope with a fundamentally different physics mode.
+
 
 ## Subscribe
 
