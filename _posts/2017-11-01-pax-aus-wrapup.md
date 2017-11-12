@@ -1,5 +1,5 @@
 ---
-title: "PAX Australia 2017"
+title: "PAX Australia 2017 Wrapup"
 layout: single
 excerpt: The verdict: PAX Australia was totally awesome!
 author: Steve Salmond
