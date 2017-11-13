@@ -14,22 +14,22 @@ tags:
     <a href="/assets/images/paxaus/PaxAusIndieShowcasePanel01.jpg"><img src="/assets/images/paxaus/PaxAusIndieShowcasePanel01.jpg"></a>
 </figure>
 
-We've just arrived back in New Zealand on the red-eye from Melbourne to Auckland, after exhibiting GRABITY at [PAX Australia](http://aus.paxsite.com/indie) - what a total blast!  Probably one of the most intense weekends of our lives so far - three days of non-stop gaming, chatting, yelling interspersed with moments of panic, and a few beers in the mix as well :)  Met a ton of cool folks, including our 5 fellow Indie Showcase neighbours.  It was extremely humbling to be in the company of these amazing games:
+We've just arrived back in New Zealand on the red-eye from Melbourne to Auckland, after exhibiting GRABITY at [PAX Australia](http://aus.paxsite.com/indie) - what a total blast!  Probably one of the most intense weekends of our lives so far. Three days of non-stop gaming, chatting, and yelling - interspersed with moments of panic, and a few beers in the mix as well :)  Met a ton of cool folks, including our 5 PAX Indie Showcase neighbours.  It was extremely humbling to be in the company of these amazing games and fellow devs:
 
 <figure class="half">
     <a href="/assets/images/paxaus/PaxAusIndieShowcaseBanners01.jpg"><img src="/assets/images/paxaus/PaxAusIndieShowcaseBanners01.jpg"></a>
     <a href="/assets/images/paxaus/PaxAusIndieShowcaseBanners02.jpg"><img src="/assets/images/paxaus/PaxAusIndieShowcaseBanners02.jpg"></a>
 </figure>
 
-Here are links to the 6 games that were in the showcase:
-- [Grabity](http://grabitygame.com/)
+Here are links to the 5 other games in the showcase:
 - [Forts](http://store.steampowered.com/app/410900/Forts/)
 - [The Gardens Between](http://thevoxelagents.com/gardensbetween/)
 - [Sky Noon](http://store.steampowered.com/app/569530/Sky_Noon/)
 - [Projection](http://www.shadowplaystudios.com/)
-- [Virtually Impossible](http://store.steampowered.com/app/621780/Virtually_Impossible/).
+- [Virtually Impossible](http://store.steampowered.com/app/621780/Virtually_Impossible/)
 
 
+A massive thanks to everyone who turned up at the Grabity booth and played a round or two with us - you guys were awesome! :D
 
 <!--
 ## Preparations
@@ -60,7 +60,7 @@ We arrived in Melbourne late at night after a cramped Jetstar flight and a near-
 </figure>
 
 <figure>
-    <a href="/assets/images/paxaus/PaxAusBooth04.jpg"><img src="/assets/images/paxaus/PaxAusBooth04.jpg"></a>
+    <a href="/assets/images/paxaus/PaxAusBooth04.png"><img src="/assets/images/paxaus/PaxAusBooth04.png"></a>
     <figcaption>The booth was pumping all three days; craziness :D</figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ We arrived in Melbourne late at night after a cramped Jetstar flight and a near-
 
 <figure>
     <a href="/assets/images/paxaus/PaxAusIndieShowcasePanel01.jpg"><img src="/assets/images/paxaus/PaxAusIndieShowcasePanel01.jpg"></a>
-    <figcaption>Some nail-biting setting up Grabity the Indie Showcase panel..</figcaption>
+    <figcaption>Some nail-biting moments while setting up Grabity for the Indie Showcase panel..</figcaption>
 </figure>
 
 <figure>
