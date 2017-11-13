@@ -14,7 +14,7 @@ tags:
     <a href="/assets/images/paxaus/PaxAusIndieShowcasePanel01.jpg"><img src="/assets/images/paxaus/PaxAusIndieShowcasePanel01.jpg"></a>
 </figure>
 
-We've just arrived back in New Zealand on the red-eye from Melbourne to Auckland, after exhibiting GRABITY at [PAX Australia](http://aus.paxsite.com/indie) - what a total blast!  Probably one of the most intense weekends of our lives so far. Three days of non-stop gaming, chatting, and yelling - interspersed with moments of panic, and a few beers in the mix as well :)  Met a ton of cool folks, including our 5 PAX Indie Showcase neighbours.  It was extremely humbling to be in the company of these amazing games and fellow devs:
+We've just arrived back in New Zealand on the red-eye from Melbourne to Auckland, after exhibiting GRABITY at [PAX Australia](http://aus.paxsite.com/indie) - what a total blast!  Probably one of the more intense weekends of our lives. Three days of non-stop gaming, chatting, and yelling - interspersed with moments of panic, and a few beers in the mix as well :)  Met a ton of cool folks, including our 5 PAX Indie Showcase neighbours.  It was extremely humbling to be in the company of these amazing devs:
 
 <figure class="half">
     <a href="/assets/images/paxaus/PaxAusIndieShowcaseBanners01.jpg"><img src="/assets/images/paxaus/PaxAusIndieShowcaseBanners01.jpg"></a>
