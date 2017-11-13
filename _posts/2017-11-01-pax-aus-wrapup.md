@@ -1,7 +1,7 @@
 ---
 title: "PAX Australia 2017 Wrapup"
 layout: single
-excerpt: The verdict: PAX Australia was totally awesome!
+excerpt: We attended PAX Australia, and it was totally awesome!
 author: Steve Salmond
 categories:
   - Conferences
