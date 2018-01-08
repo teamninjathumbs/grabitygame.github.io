@@ -11,9 +11,9 @@ title                    : "Ninja Thumbs"
 title_separator          : "-"
 name                     : "Ninja Thumbs Limited"
 description              : "An indie game development studio."
-url                      : "https://www.teamninjathumbs.com"
+url                      : "https://www.grabitygame.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "teamninjathumbs/teamninjathumbs.github.io"
+repository               : "teamninjathumbs/grabitygame.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
