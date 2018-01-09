@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "FJPTb5H-BH2N7tkW-tx4xDnkga_UXU0Gr4xsyn7pE9k"
+google_site_verification : "d2e0E-AMZa_UYtaN710RZUCM-9fH7FFMDEldzbtRN-A"
 bing_site_verification   : "C2FF23EACDB7E052E748EAD51EDA3EB6"
 alexa_site_verification  :
 yandex_site_verification :
@@ -60,7 +60,7 @@ facebook:
   username               : TeamNinjaThumbs
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/bio-photo-grabity.jpg"
+og_image                 : "/assets/images/og_image.jpg"
 
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
