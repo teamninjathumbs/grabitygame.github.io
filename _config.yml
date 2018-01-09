@@ -57,16 +57,17 @@ yandex_site_verification :
 twitter:
   username               : TeamNinjaThumbs
 facebook:
-  username               : 
+  username               : TeamNinjaThumbs
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/bio-photo-grabity.jpg"
+
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Organization # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  name                   : "Ninja Thumbs Limited" # If the user or organization name differs from the site's name
+  links                  : [ "http://www.facebook.com/TeamNinjaThumbs", "http://www.twitter.com/teamninjathumbs" ] # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -78,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Ninja Thumbs"
-  avatar           : "/assets/images/bio-photo-ninja-thumbs.jpg"
+  avatar           : "/assets/images/bio-photo-grabity.jpg"
   bio              : "An indie game studio based in New Zealand."
   location         : 
   email            : 
@@ -87,7 +88,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : https://www.facebook.com/TeamNinjaThumbs/
   foursquare       :
   github           :
   google_plus      :
