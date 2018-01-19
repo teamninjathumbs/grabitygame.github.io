@@ -1,5 +1,5 @@
 ---
-title: "Grabity"
+title: "About Grabity"
 layout: splash
 permalink: /grabity/
 author_profile: false

@@ -1,4 +1,5 @@
 ---
+title: "Home"
 layout: splash
 author_profile: false
 
