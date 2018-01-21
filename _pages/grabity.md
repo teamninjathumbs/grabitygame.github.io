@@ -32,10 +32,10 @@ galleryLevels:
     title: "Tutorial"
 
 galleryImages:
-  - url: /assets/images/presskit/images/GrabityPromo_1920x1080.png
-    image_path: /assets/images/presskit/images/GrabityPromo_1920x1080.png
   - url: /assets/images/presskit/images/grabity_wallpaper_explosive.jpg
     image_path: /assets/images/presskit/images/grabity_wallpaper_explosive.jpg
+  - url: /assets/images/presskit/images/GrabityPromo_1920x1080.png
+    image_path: /assets/images/presskit/images/GrabityPromo_1920x1080.png
   - url: /assets/images/presskit/screenshots/Screenshot_0007.png
     image_path: /assets/images/presskit/screenshots/Screenshot_0007.png
   - url: /assets/images/presskit/screenshots/Screenshot_0057.png
