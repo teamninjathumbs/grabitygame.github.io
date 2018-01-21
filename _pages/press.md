@@ -4,58 +4,31 @@ layout: splash
 permalink: /press/
 author_profile: false
 
-galleryScreenshots:
-  - url: /assets/images/screenshots/pax/GrabityPromo_1920x1080.png
-    image_path: /assets/images/screenshots/pax/GrabityPromo_1920x1080.png
-  - url: /assets/images/screenshots/pax/20170705190257_1.jpg
-    image_path: /assets/images/screenshots/pax/20170705190257_1.jpg
-  - url: /assets/images/screenshots/pax/20170705185654_1.jpg
-    image_path: /assets/images/screenshots/pax/20170705185654_1.jpg
-  - url: /assets/images/screenshots/screenshot_01.jpg
-    image_path: /assets/images/screenshots/screenshot_01.jpg
-  - url: /assets/images/screenshots/screenshot_02.jpg
-    image_path: /assets/images/screenshots/screenshot_02.jpg
-  - url: /assets/images/screenshots/screenshot_03.jpg
-    image_path: /assets/images/screenshots/screenshot_03.jpg
-  - url: /assets/images/screenshots/screenshot_04.jpg
-    image_path: /assets/images/screenshots/screenshot_04.jpg
-  - url: /assets/images/screenshots/screenshot_05.jpg
-    image_path: /assets/images/screenshots/screenshot_05.jpg
-  - url: /assets/images/screenshots/screenshot_06.jpg
-    image_path: /assets/images/screenshots/screenshot_06.jpg
-  - url: /assets/images/screenshots/screenshot_07.jpg
-    image_path: /assets/images/screenshots/screenshot_07.jpg
-  - url: /assets/images/screenshots/screenshot_08.jpg
-    image_path: /assets/images/screenshots/screenshot_08.jpg
-  - url: /assets/images/screenshots/screenshot_09.jpg
-    image_path: /assets/images/screenshots/screenshot_09.jpg
-
-galleryGrabityLogos:
-  - url: /assets/images/branding/grabity/grabity-logo.png
-    image_path: /assets/images/branding/grabity/grabity-logo.png
-  - url: /assets/images/branding/grabity/grabity-logo-black.png
-    image_path: /assets/images/branding/grabity/grabity-logo-black.png
-  - url: /assets/images/branding/grabity/grabity-logo-skull-black.png
-    image_path: /assets/images/branding/grabity/grabity-logo-skull-black.png
-  - url: /assets/images/branding/grabity/grabity-logo-skull-color.png
-    image_path: /assets/images/branding/grabity/grabity-logo-skull-color.png
-  - url: /assets/images/branding/grabity/grabity-profile-thumb.jpg
-    image_path: /assets/images/branding/grabity/grabity-profile-thumb.jpg
-
-galleryNinjaThumbsLogos:
-  - url: /assets/images/branding/ninja-thumbs/ninja-thumbs-logotype-black.png
-    image_path: /assets/images/branding/ninja-thumbs/ninja-thumbs-logotype-black.png
-  - url: /assets/images/branding/ninja-thumbs/ninja-thumbs-logo.png
-    image_path: /assets/images/branding/ninja-thumbs/ninja-thumbs-logo.png
-
-galleryGrabityAssets:
-  - url: /assets/images/branding/grabity/grabity-desktop.png
-    image_path: /assets/images/branding/grabity/grabity-desktop.png
-  - url: /assets/images/branding/grabity/grabity-profile-thumb.jpg
-    image_path: /assets/images/branding/grabity/grabity-profile-thumb.jpg
-  - url: /assets/images/grabity/grabity-button-mappings.jpg
-    image_path: /assets/images/grabity/grabity-button-mappings.jpg
-
+galleryImages:
+  - url: /assets/images/presskit/images/GrabityPromo_1920x1080.png
+    image_path: /assets/images/presskit/images/GrabityPromo_1920x1080.png
+  - url: /assets/images/presskit/images/grabity_wallpaper_explosive.jpg
+    image_path: /assets/images/presskit/images/grabity_wallpaper_explosive.jpg
+  - url: /assets/images/presskit/screenshots/Screenshot_0007.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0007.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0057.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0057.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0029.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0029.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0038.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0038.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0047.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0047.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0050.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0050.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0052.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0052.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0000.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0000.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0001.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0001.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0002.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0002.png
 
 sidebar:
   - title: "Contact"
@@ -94,35 +67,30 @@ Grabity started out as a game jam in February 2016, and quickly evolved into som
 
 {% include video id="bYFIH6-HCdA" provider="youtube" %}
 
-{% include video id="rt-fGm-quKM" provider="youtube" %}
+<!-- {% include video id="rt-fGm-quKM" provider="youtube" %} -->
 
-{% include video id="A03BZxTyt_g" provider="youtube" %}
+<!-- {% include video id="A03BZxTyt_g" provider="youtube" %} -->
 
-{% include video id="e1cMofiaNNU" provider="youtube" %}
+<!-- {% include video id="e1cMofiaNNU" provider="youtube" %} -->
 
 ## Images
 
-{% include gallery id="galleryScreenshots" %}
+{% include gallery id="galleryImages" %}
 
-If you have any specific requests for imagery, please don't hesitate to [get in touch!](mailto:info@teamninjathumbs.com)
+If you have any specific requests for imagery, please don't hesitate to [get in touch!](mailto:info@grabitygame.com)
+
+[Download promo images as .zip](/assets/images/presskit/images.zip)
+{: .notice--info }
+
+[Download screenshots as .zip](/assets/images/presskit/screenshots.zip)
+{: .notice--info }
 
 
 ## Logo & Icon
 
-### Grabity
-
-{% include gallery id="galleryGrabityLogos" %}
-
-### Ninja Thumbs
-
-{% include gallery id="galleryNinjaThumbsLogos" %}
-
-[Download logo files as .zip](/assets/images/branding/logos.zip)
+[Download logos as .zip](/assets/images/presskit/logos.zip)
 {: .notice--info }
 
-## Visual Assets
-
-{% include gallery id="galleryGrabityAssets" %}
 
 ## Awards and Recognition
 
@@ -149,10 +117,10 @@ Grabity's music is being scored by Clark Aboud.  [clarkaboud.com](http://clarkab
 ## Team
 
 ### Moritz Schlitter
-Artist
+[Artist](mailto:moritz@grabitygame.com)
 
 ### Steve Salmond
-Programmer
+[Programmer](mailto:steve@grabitygame.com)
 
 ### Clark Aboud
 [Composer, Freelancer](http://clarkaboud.com)
@@ -167,4 +135,4 @@ Programmer
 [twitter.com/teamninjathumbs](http://twitter.com/teamninjathumbs)
 
 ### Web
-[teamninjathumbs.com](https://teamninjathumbs.com)
+[grabitygame.com](https://grabitygame.com)
