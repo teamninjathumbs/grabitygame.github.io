@@ -19,11 +19,11 @@ Grabity is now [**Coming Soon** on Steam](http://store.steampowered.com/app/6528
 ## Awards and Recognition
 
 
-<figure class="half">
-    <a href="http://aus.paxsite.com/indie/2017/08#grabity"><img src="/assets/images/awards/pax_aus_logo01_512x256.png"></a>
-    <a href="http://nzgda.com/news/kiwi-game-starter-2016/"><img src="/assets/images/awards/KGS_Logo_Red_BG_512x256.png"></a>
-    <a href="http://www.chromacon.co.nz/art-awards/"><img src="/assets/images/awards/Chroma_Art_Awards_2017_Videogame_Finalist_colour_512x256.png"></a>
-    <a href="http://www.playbyplay.co.nz/awards/"><img src="/assets/images/awards/PBP17-Finalist-Dark_512x256.png"></a>
+<figure>
+    <a href="http://aus.paxsite.com/indie/2017/08#grabity"><img src="/assets/images/awards/pax_aus_2017.png"></a>
+    <a href="http://nzgda.com/news/kiwi-game-starter-2016/"><img src="/assets/images/awards/kiwi_game_starter_2016.png"></a>
+    <a href="http://www.chromacon.co.nz/art-awards/"><img src="/assets/images/awards/chromacon_2017.png"></a>
+    <a href="http://www.playbyplay.co.nz/awards/"><img src="/assets/images/awards/play_by_play_2017.png"></a>
 </figure>
 
 - "Winner, [PAX Aus Indie Showcase](http://aus.paxsite.com/indie/2017/08#grabity)" - *Melbourne, Australia, 27-29 October 2017*
