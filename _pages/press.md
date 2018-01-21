@@ -1,8 +1,8 @@
 ---
 title: "Presskit"
-layout: splash
+layout: single
 permalink: /press/
-author_profile: false
+author_profile: true
 
 galleryImages:
   - url: /assets/images/presskit/images/GrabityPromo_1920x1080.png

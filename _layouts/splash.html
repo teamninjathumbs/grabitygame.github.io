@@ -8,12 +8,6 @@ layout: default
   {% include page__hero_video.html %}
 {% endif %}
 
-{% if page.url != "/" and site.breadcrumbs %}
-  {% unless paginator %}
-    {% include breadcrumbs.html %}
-  {% endunless %}
-{% endif %}
-
 <div class="page__backdrop" data-stellar-background-ratio="0.5">
   <div id="main" role="main">
     <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">

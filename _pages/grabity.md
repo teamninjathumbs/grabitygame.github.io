@@ -1,8 +1,8 @@
 ---
 title: "About Grabity"
-layout: splash
+layout: single
 permalink: /grabity/
-author_profile: false
+author_profile: true
 share: true
 
 galleryLevels:
