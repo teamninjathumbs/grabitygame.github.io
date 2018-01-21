@@ -68,12 +68,6 @@ greenlight_button_url: /assets/images/greenlight/greenlight_button_small.png
 
 Dance the tango of death in *GRABITY*, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
 
-<!--
-<p class="notice--success">
-    <a href="{{ page.greenlight_url }}"><img src="{{ page.greenlight_button_url }}"></a>
-    <a href="{{ page.greenlight_url }}">Give Grabity a thumbs-up on Greenlight!</a>
-</p>
--->
 
 ## Gameplay
 
@@ -87,13 +81,6 @@ It all makes for a frenetic, fast-paced game in which the arena evolves kinetica
     Your browser does not support the video tag.
   </video>
 </figure>
-
-
-## Videos
-
-{% include video id="bYFIH6-HCdA" provider="youtube" %}
-<!-- {% include video id="rt-fGm-quKM" provider="youtube" %} -->
-<!-- {% include video id="A03BZxTyt_g" provider="youtube" %} -->
 
 
 ## Images
