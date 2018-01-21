@@ -6,8 +6,6 @@ author_profile: true
 
 ---
 
-## Mailing List
-
 Sign up to our mailing list and we'll let you know when Grabity is released!
 
 <!-- Begin MailChimp Signup Form -->
