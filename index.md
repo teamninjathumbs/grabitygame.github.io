@@ -13,6 +13,10 @@ Dance the tango of death in *Grabity*, a fast-paced, physics-based arena brawler
 
 ## Coming Soon on Steam!
 
+<figure>
+    <a href="http://store.steampowered.com/app/652810/Grabity/"><img src="/assets/images/steam/grabity_coming_soon_to_steam.jpg"></a>
+</figure>
+
 Grabity is now [**Coming Soon** on Steam](http://store.steampowered.com/app/652810/Grabity/) - feel free to wishlist! :)
 
 
