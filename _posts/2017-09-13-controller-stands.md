@@ -4,7 +4,7 @@ layout: single
 excerpt: Something awesome arrived in the mail this morning!
 author: Steve Salmond
 categories:
-  - Conferences
+  - News
 tags:
   - conference
   - gamedev

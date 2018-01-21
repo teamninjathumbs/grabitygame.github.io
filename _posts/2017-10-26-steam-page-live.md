@@ -4,7 +4,7 @@ layout: single
 excerpt: The Steam page for Grabity is live, feel free to wishlist it!
 author: Steve Salmond
 categories:
-  - Art
+  - News
 tags:
   - art
   - gamedev

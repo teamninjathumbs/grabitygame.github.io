@@ -4,7 +4,7 @@ layout: single
 excerpt: Your weekly dose of Grabity eye candy!
 author: Steve Salmond
 categories:
-  - Art
+  - News
 tags:
   - art
   - gamedev

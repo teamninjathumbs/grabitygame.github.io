@@ -4,7 +4,7 @@ layout: single
 excerpt: We attended PAX Australia, and it was totally awesome!
 author: Steve Salmond
 categories:
-  - Conferences
+  - News
 tags:
   - conference
   - gamedev

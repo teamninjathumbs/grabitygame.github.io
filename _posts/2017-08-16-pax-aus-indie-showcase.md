@@ -4,7 +4,7 @@ layout: single
 excerpt: Grabity has been selected for inclusion in the 2017 PAX Aus Indie Showcase!
 author: Steve Salmond
 categories:
-  - Conferences
+  - News
 tags:
   - conference
   - gamedev

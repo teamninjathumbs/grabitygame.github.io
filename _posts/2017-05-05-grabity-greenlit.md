@@ -4,7 +4,7 @@ layout: single
 excerpt: We made it, thanks everyone!
 author: Steve Salmond
 categories:
-  - Conferences
+  - News
 tags:
   - conference
   - gamedev

@@ -4,7 +4,7 @@ layout: single
 excerpt: Here are the slides from our NZGDC 2017 talk
 author: Steve Salmond
 categories:
-  - Conferences
+  - News
 tags:
   - conference
   - gamedev

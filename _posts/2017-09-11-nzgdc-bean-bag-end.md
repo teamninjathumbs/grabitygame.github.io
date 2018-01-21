@@ -4,7 +4,7 @@ layout: single
 excerpt: We had a great couple of days demoing Grabity at NZGDC 2017.
 author: Steve Salmond
 categories:
-  - Conferences
+  - News
 tags:
   - conference
   - gamedev
