@@ -15,7 +15,7 @@ url                      : "https://www.grabitygame.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "teamninjathumbs/grabitygame.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
@@ -65,9 +65,12 @@ og_image                 : "/assets/images/og_image.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : Organization # Person or Organization (defaults to Person)
-  name                   : "Ninja Thumbs Limited" # If the user or organization name differs from the site's name
-  links                  : [ "http://www.facebook.com/TeamNinjaThumbs", "http://www.twitter.com/teamninjathumbs" ] # An array of links to social media profiles
+  type: Organization # Person or Organization (defaults to Person)
+  name: "Ninja Thumbs Limited" # If the user or organization name differs from the site's name
+  links: 
+    - "http://www.facebook.com/TeamNinjaThumbs"
+    - "http://www.twitter.com/teamninjathumbs"
+    - "https://www.instagram.com/teamninjathumbs"
 
 # Analytics
 analytics:
