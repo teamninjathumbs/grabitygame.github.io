@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-Sign up to our mailing list and we'll let you know when Grabity is released!
+Sign up to our mailing list and we'll let you know when important Grabity stuff happens!
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
