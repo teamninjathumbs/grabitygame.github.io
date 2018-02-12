@@ -114,13 +114,13 @@ Grabity's music is being scored by Clark Aboud.  [clarkaboud.com](http://clarkab
 ## Team
 
 ### Moritz Schlitter
-[Artist](mailto:moritz@grabitygame.com)
+Artist - [moritz@grabitygame.com](mailto:moritz@grabitygame.com)
 
 ### Steve Salmond
-[Programmer](mailto:steve@grabitygame.com)
+Programmer - [steve@grabitygame.com](mailto:steve@grabitygame.com)
 
 ### Clark Aboud
-[Composer, Freelancer](http://clarkaboud.com)
+Composer, Freelancer - [clarkaboud.com](http://clarkaboud.com)
 
 
 ## Contact
