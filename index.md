@@ -8,7 +8,7 @@ excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena
 
 {% include video id="bYFIH6-HCdA" provider="youtube" %}
 
-Dance the tango of death in *Grabity*, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
+Dance the tango of death in *GRABITY*, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
 
 
 ## Coming Soon on Steam!
