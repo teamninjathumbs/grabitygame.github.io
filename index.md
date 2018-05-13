@@ -20,6 +20,15 @@ Dance the tango of death in *Grabity*, a fast-paced, physics-based arena brawler
 Grabity is now [**Coming Soon** on Steam](http://store.steampowered.com/app/652810/Grabity/) - feel free to wishlist us! :)
 
 
+## Join us on Discord!
+
+You're welcome to drop by our public Discord server anytime - come and say hi!
+
+<figure>
+    <a href="http://discord.gg/grabity"><img src="/assets/images/discord/grabity_discord.png"></a>
+</figure>
+
+
 ## Awards and Recognition
 
 <figure>
