@@ -25,15 +25,15 @@ Grabity is now [**Coming Soon** on Steam](http://store.steampowered.com/app/6528
 You're welcome to drop by our public Discord server anytime - come and say hi!
 
 <figure>
-    <a href="http://discord.gg/grabity"><img src="/assets/images/discord/grabity_discord.png"></a>
+    <a href="http://discord.gg/grabity"><img src="/assets/images/discord/grabity_discord.jpg"></a>
 </figure>
 
 
 ## Awards and Recognition
 
 <figure>
-    <a href="http://aus.paxsite.com/indie/2017/08#grabity"><img src="/assets/images/awards/pax_aus_2017.png"></a>
-    <a href="http://nzgda.com/news/kiwi-game-starter-2016/"><img src="/assets/images/awards/kiwi_game_starter_2016.png"></a>
-    <a href="http://www.chromacon.co.nz/art-awards/"><img src="/assets/images/awards/chromacon_2017.png"></a>
-    <a href="http://www.playbyplay.co.nz/awards/"><img src="/assets/images/awards/play_by_play_2017.png"></a>
+    <a href="http://aus.paxsite.com/indie/2017/08#grabity"><img src="/assets/images/awards/pax_aus_2017.jpg"></a>
+    <a href="http://nzgda.com/news/kiwi-game-starter-2016/"><img src="/assets/images/awards/kiwi_game_starter_2016.jpg"></a>
+    <a href="http://www.chromacon.co.nz/art-awards/"><img src="/assets/images/awards/chromacon_2017.jpg"></a>
+    <a href="http://www.playbyplay.co.nz/awards/"><img src="/assets/images/awards/play_by_play_2017.jpg"></a>
 </figure>
