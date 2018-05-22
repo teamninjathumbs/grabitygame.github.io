@@ -28,6 +28,7 @@ Auckland, 21 May 2018: Team Ninja Thumbs today announced that the award winning 
 Requiring both twitch reflexes and a tactical mindset, Grabity demands players outmaneuver and outwit their foes, turning gravity to their advantage, predicting the paths of both projectiles and rivals to secure a brutal hit while snatching their next crate in mid-air. Throughout the frenetic mêlée, the arena evolves kinetically as players smash, grab and loot their surroundings – jostling for the upper hand in a contest of aerial agility, dashing for pickups, hovering momentarily to nail the perfect trajectory and squabbling over the limited environmental ammo.
 
 ## Game features
+
 - 2-4 person online multiplayer – or local for maximum couch trash-talk!
 - Intuitive twin-stick controls for a fluid play experience that’s simple to learn but hard to master – pick up, play, git gud
 - You can also play with mouse & keyboard if you don’t have a controller handy!
@@ -39,6 +40,7 @@ Requiring both twitch reflexes and a tactical mindset, Grabity demands players o
 - Grabity won 1st place in Kiwi Game Starter 2016, and was awarded a place at the PAX Australia Indie Showcase in 2017, as well as being finalists at PlayByPlay and Chromacon in the same year.
 
 ## Links
+
 Website: [https://www.grabitygame.com/](https://www.grabitygame.com/)
 
 Assets: trailer, screenshots and art can be downloaded from [https://www.grabitygame.com/press/](https://www.grabitygame.com/press/), or catch the trailer at [https://www.youtube.com/watch?v=bYFIH6-HCdA](https://www.youtube.com/watch?v=bYFIH6-HCdA). 
@@ -50,6 +52,11 @@ Please contact [reviews@grabitygame.com](mailto:reviews@grabitygame.com) directl
 Steam: [http://store.steampowered.com/app/652810/Grabity/](http://store.steampowered.com/app/652810/Grabity/)
 
 Content creators can request Steam codes via Keymailer, [https://www.keymailer.co/g/games/50728](https://www.keymailer.co/g/games/50728). Creating a Keymailer account is free.
+
+
+## Trailer
+
+{% include video id="bYFIH6-HCdA" provider="youtube" %}
 
 
 ## About Team Ninja Thumbs
