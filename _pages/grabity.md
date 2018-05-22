@@ -6,58 +6,54 @@ author_profile: true
 share: true
 
 galleryLevels:
-  - url: /assets/images/levels/warehouse.jpg
-    image_path: /assets/images/levels/warehouse.jpg
+  - url: /assets/images/levels/warehouse.png
+    image_path: /assets/images/levels/warehouse.png
     alt: "Warehouse"
     title: "Warehouse"
-  - url: /assets/images/levels/airvents.jpg
-    image_path: /assets/images/levels/airvents.jpg
+  - url: /assets/images/levels/airvents.png
+    image_path: /assets/images/levels/airvents.png
     alt: "Airvents"
     title: "Airvents"
-  - url: /assets/images/levels/antigravity.jpg
-    image_path: /assets/images/levels/antigravity.jpg
+  - url: /assets/images/levels/antigravity.png
+    image_path: /assets/images/levels/antigravity.png
     alt: "Antigravity"
     title: "Antigravity"
-  - url: /assets/images/levels/foundry.jpg
-    image_path: /assets/images/levels/foundry.jpg
+  - url: /assets/images/levels/foundry.png
+    image_path: /assets/images/levels/foundry.png
     alt: "Foundry"
     title: "Foundry"
-  - url: /assets/images/levels/railcarts.jpg
-    image_path: /assets/images/levels/railcarts.jpg
+  - url: /assets/images/levels/railcarts.png
+    image_path: /assets/images/levels/railcarts.png
     alt: "Railcarts"
     title: "Railcarts"
-  - url: /assets/images/levels/containers.jpg
-    image_path: /assets/images/levels/containers.jpg
+  - url: /assets/images/levels/containers.png
+    image_path: /assets/images/levels/containers.png
     alt: "Containers"
     title: "Containers"
-  - url: /assets/images/levels/crushers.jpg
-    image_path: /assets/images/levels/crushers.jpg
+  - url: /assets/images/levels/crushers.png
+    image_path: /assets/images/levels/crushers.png
     alt: "Crushers"
     title: "Crushers"
-  - url: /assets/images/levels/elevator.jpg
-    image_path: /assets/images/levels/elevator.jpg
+  - url: /assets/images/levels/elevator.png
+    image_path: /assets/images/levels/elevator.png
     alt: "Elevator"
     title: "Elevator"
-  - url: /assets/images/levels/jumppads.jpg
-    image_path: /assets/images/levels/jumppads.jpg
+  - url: /assets/images/levels/jumppads.png
+    image_path: /assets/images/levels/jumppads.png
     alt: "Jump Pads"
     title: "Jump Pads"
-  - url: /assets/images/levels/plateau.jpg
-    image_path: /assets/images/levels/plateau.jpg
+  - url: /assets/images/levels/plateau.png
+    image_path: /assets/images/levels/plateau.png
     alt: "Plateau"
     title: "Plateau"
-  - url: /assets/images/levels/train_tunnels.jpg
-    image_path: /assets/images/levels/train_tunnels.jpg
+  - url: /assets/images/levels/train_tunnels.png
+    image_path: /assets/images/levels/train_tunnels.png
     alt: "Train Tunnels"
     title: "Train Tunnels"
-  - url: /assets/images/levels/turbines.jpg
-    image_path: /assets/images/levels/turbines.jpg
+  - url: /assets/images/levels/turbines.png
+    image_path: /assets/images/levels/turbines.png
     alt: "Turbines"
     title: "Turbines"
-  - url: /assets/images/levels/tutorial.jpg
-    image_path: /assets/images/levels/tutorial.jpg
-    alt: "Tutorial"
-    title: "Tutorial"
 
 galleryImages:
   - url: /assets/images/presskit/images/grabity_wallpaper_explosive.jpg
