@@ -9,8 +9,8 @@ galleryImages:
     image_path: /assets/images/presskit/images/grabity_wallpaper_explosive.jpg
   - url: /assets/images/presskit/images/GrabityPromo_1920x1080.png
     image_path: /assets/images/presskit/images/GrabityPromo_1920x1080.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0007.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0007.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0080.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0080.png
   - url: /assets/images/presskit/screenshots/Screenshot_0060.png
     image_path: /assets/images/presskit/screenshots/Screenshot_0060.png
   - url: /assets/images/presskit/screenshots/Screenshot_0061.png
@@ -51,8 +51,6 @@ galleryImages:
     image_path: /assets/images/presskit/screenshots/Screenshot_0078.png
   - url: /assets/images/presskit/screenshots/Screenshot_0079.png
     image_path: /assets/images/presskit/screenshots/Screenshot_0079.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0080.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0080.png
 
 sidebar:
   - title: "Contact"
