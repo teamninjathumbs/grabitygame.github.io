@@ -38,8 +38,7 @@ Requiring both twitch reflexes and a tactical mindset, Grabity demands players o
 - Lots of unlockable inventory items such as guns, jetpacks and, ahem, heads
 - Grabity won 1st place in Kiwi Game Starter 2016, and was awarded a place at the PAX Australia Indie Showcase in 2017, as well as being finalists at PlayByPlay and Chromacon in the same year.
 
-###
-
+## Links
 Website: [https://www.grabitygame.com/](https://www.grabitygame.com/)
 
 Assets: trailer, screenshots and art can be downloaded from [https://www.grabitygame.com/press/](https://www.grabitygame.com/press/), or catch the trailer at [https://www.youtube.com/watch?v=bYFIH6-HCdA](https://www.youtube.com/watch?v=bYFIH6-HCdA). 
@@ -53,6 +52,6 @@ Steam: [http://store.steampowered.com/app/652810/Grabity/](http://store.steampow
 Content creators can request Steam codes via Keymailer, [https://www.keymailer.co/g/games/50728](https://www.keymailer.co/g/games/50728). Creating a Keymailer account is free.
 
 
-### About Team Ninja Thumbs
+## About Team Ninja Thumbs
 
 Ninja Thumbs is a small independent game studio based in Auckland, New Zealand. We started off doing game jams, but soon realized that we wanted to take on a bigger project together. Grabity is a side project that quickly grew into a serious undertaking when we realized we had a really fun prototype on our hands!
