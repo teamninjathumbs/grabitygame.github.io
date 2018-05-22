@@ -11,24 +11,48 @@ galleryImages:
     image_path: /assets/images/presskit/images/GrabityPromo_1920x1080.png
   - url: /assets/images/presskit/screenshots/Screenshot_0007.png
     image_path: /assets/images/presskit/screenshots/Screenshot_0007.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0057.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0057.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0029.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0029.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0038.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0038.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0047.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0047.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0050.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0050.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0052.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0052.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0000.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0000.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0001.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0001.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0002.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0002.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0060.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0060.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0061.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0061.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0062.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0062.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0063.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0063.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0064.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0064.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0065.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0065.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0066.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0066.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0067.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0067.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0068.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0068.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0069.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0069.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0070.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0070.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0071.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0071.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0072.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0072.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0073.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0073.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0074.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0074.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0075.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0075.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0076.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0076.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0077.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0077.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0078.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0078.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0079.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0079.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0080.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0080.png
 
 sidebar:
   - title: "Contact"
@@ -38,6 +62,11 @@ sidebar:
 ---
 
 {% include toc icon="id-card"  title="Presskit" %}
+
+
+## Availability
+
+Grabity is [**releasing** on Steam May 31st](http://store.steampowered.com/app/652810/Grabity/).
 
 
 ## Description

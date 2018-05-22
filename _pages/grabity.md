@@ -26,6 +26,34 @@ galleryLevels:
     image_path: /assets/images/levels/railcarts.jpg
     alt: "Railcarts"
     title: "Railcarts"
+  - url: /assets/images/levels/containers.jpg
+    image_path: /assets/images/levels/containers.jpg
+    alt: "Containers"
+    title: "Containers"
+  - url: /assets/images/levels/crushers.jpg
+    image_path: /assets/images/levels/crushers.jpg
+    alt: "Crushers"
+    title: "Crushers"
+  - url: /assets/images/levels/elevator.jpg
+    image_path: /assets/images/levels/elevator.jpg
+    alt: "Elevator"
+    title: "Elevator"
+  - url: /assets/images/levels/jumppads.jpg
+    image_path: /assets/images/levels/jumppads.jpg
+    alt: "Jump Pads"
+    title: "Jump Pads"
+  - url: /assets/images/levels/plateau.jpg
+    image_path: /assets/images/levels/plateau.jpg
+    alt: "Plateau"
+    title: "Plateau"
+  - url: /assets/images/levels/train_tunnels.jpg
+    image_path: /assets/images/levels/train_tunnels.jpg
+    alt: "Train Tunnels"
+    title: "Train Tunnels"
+  - url: /assets/images/levels/turbines.jpg
+    image_path: /assets/images/levels/turbines.jpg
+    alt: "Turbines"
+    title: "Turbines"
   - url: /assets/images/levels/tutorial.jpg
     image_path: /assets/images/levels/tutorial.jpg
     alt: "Tutorial"
@@ -38,24 +66,48 @@ galleryImages:
     image_path: /assets/images/presskit/images/GrabityPromo_1920x1080.png
   - url: /assets/images/presskit/screenshots/Screenshot_0007.png
     image_path: /assets/images/presskit/screenshots/Screenshot_0007.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0057.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0057.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0029.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0029.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0038.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0038.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0047.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0047.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0050.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0050.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0052.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0052.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0000.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0000.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0001.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0001.png
-  - url: /assets/images/presskit/screenshots/Screenshot_0002.png
-    image_path: /assets/images/presskit/screenshots/Screenshot_0002.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0060.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0060.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0061.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0061.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0062.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0062.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0063.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0063.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0064.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0064.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0065.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0065.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0066.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0066.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0067.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0067.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0068.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0068.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0069.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0069.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0070.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0070.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0071.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0071.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0072.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0072.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0073.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0073.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0074.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0074.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0075.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0075.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0076.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0076.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0077.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0077.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0078.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0078.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0079.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0079.png
+  - url: /assets/images/presskit/screenshots/Screenshot_0080.png
+    image_path: /assets/images/presskit/screenshots/Screenshot_0080.png
 
 greenlight_label: "Greenlight"
 greenlight_url: "http://steamcommunity.com/sharedfiles/filedetails/?id=909132555"

@@ -11,13 +11,13 @@ excerpt: "Dance the tango of death in Grabity, a fast-paced, physics-based arena
 Dance the tango of death in *Grabity*, a fast-paced, physics-based arena brawler. Combat robots duke it out using Grab guns to turn nearby objects into lethal projectiles or makeshift shields in intense tactical throw-downs.
 
 
-## Coming Soon on Steam!
+## Coming to Steam May 31st!
 
 <figure>
     <a href="http://store.steampowered.com/app/652810/Grabity/"><img src="/assets/images/steam/grabity_coming_soon_to_steam.jpg"></a>
 </figure>
 
-Grabity is now [**Coming Soon** on Steam](http://store.steampowered.com/app/652810/Grabity/) - feel free to wishlist us! :)
+Grabity is [**releasing** on Steam May 31st](http://store.steampowered.com/app/652810/Grabity/) - feel free to wishlist us before that though! :)
 
 
 ## Join us on Discord!
