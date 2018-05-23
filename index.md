@@ -17,6 +17,8 @@ Dance the tango of death in [***Grabity***](http://store.steampowered.com/app/65
     <a href="http://store.steampowered.com/app/652810/Grabity/"><img src="/assets/images/steam/grabity_coming_soon_to_steam.jpg"></a>
 </figure>
 
+<iframe src="https://store.steampowered.com/widget/652810/" frameborder="0" width="646" height="190"></iframe>
+
 Grabity is [**releasing** on Steam May 31st](http://store.steampowered.com/app/652810/Grabity/) - feel free to wishlist us before that though! :)
 
 
