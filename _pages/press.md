@@ -121,6 +121,11 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 - "Finalist, [Play by Play Awards](http://www.playbyplay.co.nz/awards/)" - *Wellington, New Zealand, 22 April 2017*
 - "Winner, [PAX Aus Indie Showcase](http://aus.paxsite.com/indie/2017/08#grabity)" - *Melbourne, Australia, 27-29 October 2017*
 
+## Press Releases
+
+- [Grabity Release Announcement](https://www.grabitygame.com/news/release-announcement/) - *Auckland, New Zealand, 21 May 2018*
+- [Te Reo meets Robots in new Kiwi game](https://www.grabitygame.com/news/te-reo/) - *Auckland, New Zealand, 23 May 2018*
+
 ## Selected Articles
 
 - [What We Liked From PAX Australia 2017](https://www.kotaku.com.au/2017/10/what-we-liked-from-pax-australia-2017/) - *Alex Walker, [Kotaku](https://www.kotaku.com.au/)*
