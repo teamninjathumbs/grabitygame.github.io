@@ -128,6 +128,7 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 
 ## Selected Articles
 
+- [Prize-winning computer game embraces te reo](http://www.maoritelevision.com/news/regional/prize-winning-computer-game-embraces-te-reo) - *Tema Hemi*, [Māori Television](http://www.maoritelevision.com)
 - [Kiwi smash brawler Grabity hits Steam next week](https://www.gameplanet.co.nz/news/g5b04f02fe9665/) - *Matt Maguire, [Gameplanet](https://www.gameplanet.co.nz/)*
 - [What We Liked From PAX Australia 2017](https://www.kotaku.com.au/2017/10/what-we-liked-from-pax-australia-2017/) - *Alex Walker, [Kotaku](https://www.kotaku.com.au/)*
 - [Indie Spotlight: Grabity](https://www.pcpowerplay.com.au/feature/indie-spotlight-grabity,478195) - *Meghann O'Neill, [PC Powerplay](https://www.pcpowerplay.com.au/)*
