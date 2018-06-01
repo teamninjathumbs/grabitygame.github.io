@@ -17,5 +17,5 @@ Woke up to some great news this morning - the Steam page for Grabity has been ap
 
 Moritz has also updated our trailer, pretty cool - check it out :)
 
-{% include video id="bYFIH6-HCdA" provider="youtube" %}
+{% include video id="nb_uMp38ebA" provider="youtube" %}
 

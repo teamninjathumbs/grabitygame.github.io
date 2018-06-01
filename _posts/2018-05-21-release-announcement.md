@@ -44,7 +44,7 @@ Requiring both twitch reflexes and a tactical mindset, Grabity demands players o
 
 Website: [https://www.grabitygame.com/](https://www.grabitygame.com/)
 
-Assets: trailer, screenshots and art can be downloaded from [https://www.grabitygame.com/press/](https://www.grabitygame.com/press/), or catch the trailer at [https://www.youtube.com/watch?v=bYFIH6-HCdA](https://www.youtube.com/watch?v=bYFIH6-HCdA). 
+Assets: trailer, screenshots and art can be downloaded from [https://www.grabitygame.com/press/](https://www.grabitygame.com/press/), or catch the trailer at [https://www.youtube.com/watch?v=nb_uMp38ebA](https://www.youtube.com/watch?v=nb_uMp38ebA). 
 
 For further information or interviews, media should contact Team Ninja Thumbs via [press@grabitygame.com](mailto:press@grabitygame.com).
 
@@ -57,7 +57,7 @@ Content creators can request Steam codes via Keymailer, [https://www.keymailer.c
 
 ## Trailer
 
-{% include video id="bYFIH6-HCdA" provider="youtube" %}
+{% include video id="nb_uMp38ebA" provider="youtube" %}
 
 
 ## About Team Ninja Thumbs
