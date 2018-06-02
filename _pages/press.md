@@ -64,7 +64,7 @@ sidebar:
 
 ## Availability
 
-Grabity is [**releasing** on Steam May 31st](http://store.steampowered.com/app/652810/Grabity/).
+Grabity was [**released** on Steam, May 31st (2018)](http://store.steampowered.com/app/652810/Grabity/).
 
 
 ## Description
