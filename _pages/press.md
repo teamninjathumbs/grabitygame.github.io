@@ -128,6 +128,7 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 
 ## Selected Articles
 
+- [Grabity: The Aotearoa-made video game that can help spread te reo Māori](https://idealog.co.nz/tech/2018/06/grabity-aotearoa-made-video-game-can-help-spread-te-reo-maori) - *Ben Mack*, [Idealog](https://idealog.co.nz)
 - [Prize-winning computer game embraces te reo](http://www.maoritelevision.com/news/regional/prize-winning-computer-game-embraces-te-reo) - *Tema Hemi*, [Māori Television](http://www.maoritelevision.com)
 - [Kiwi smash brawler Grabity hits Steam next week](https://www.gameplanet.co.nz/news/g5b04f02fe9665/) - *Matt Maguire, [Gameplanet](https://www.gameplanet.co.nz/)*
 - [What We Liked From PAX Australia 2017](https://www.kotaku.com.au/2017/10/what-we-liked-from-pax-australia-2017/) - *Alex Walker, [Kotaku](https://www.kotaku.com.au/)*
