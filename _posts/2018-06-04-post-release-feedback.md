@@ -11,7 +11,7 @@ tags:
 ---
 
 <figure>
-    <a href="/assets/images/Grabity_BoxArt.jpg"><img src="/assets/images/Grabity_BoxArt.jpg"></a>
+    <a href="/assets/images/Thumbnail_TrailerUpdated.png"><img src="/assets/images/Thumbnail_TrailerUpdated.png"></a>
 </figure>
 
 ## Grabity Post-release Feedback
@@ -26,27 +26,27 @@ It seems they’ve succeeded.  Players on Steam are raving about it:
 
 > Grabity is a great title. It's an arena brawler with loader mechs. Everything in it is quality, from the graphics to the tutorial, it doesn't miss a beat.
 
-<cite>Steam Curator</cite>
+<cite>Steam Curator (Check'n Games)</cite>
 {: .small}
 
 > The graphics are artistic, gameplay is smooth and fun! A great game to play with friends!
 
-<cite>Steam Curator</cite>
+<cite>Steam Curator (Hookups)</cite>
 {: .small}
 
 > A gravity-heavy local multiplayer than I'm falling in love with.
 
-<cite>Steam Curator</cite>
+<cite>Steam Curator (Notable Releases)</cite>
 {: .small}
 
 > If you are on the lookout for a fun, indie fighting game then this is the game for you. The unique fighting mechanics in this game are so enjoyable.
 
-<cite>Steam Review</cite>
+<cite>Steam Review (InfinityDude88)</cite>
 {: .small}
 
 > The developers are committed to making this game the best it can possibly be for the community. They have been listening and working with the community and their feedback, to make what is honestly one of the best brawlers I have played in quite a while.
 
-<cite>Steam Review</cite>
+<cite>Steam Review (da stealth)</cite>
 {: .small}
 
 
