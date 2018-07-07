@@ -128,7 +128,7 @@ If you have any specific requests for imagery, please don't hesitate to [get in 
 
 ## Selected Articles
 
-- [The inspirations behind cult Kiwi brawler Grabity](https://thespinoff.co.nz/games/05-07-2018/the-inspirations-behind-cult-kiwi-brawler-grabity/) - *Adam Goodall*, [The Spinff](https://thespinoff.co.nz)
+- [The inspirations behind cult Kiwi brawler Grabity](https://thespinoff.co.nz/games/05-07-2018/the-inspirations-behind-cult-kiwi-brawler-grabity/) - *Adam Goodall*, [The Spinoff](https://thespinoff.co.nz)
 - [Grabity: The Aotearoa-made video game that can help spread te reo Māori](https://idealog.co.nz/tech/2018/06/grabity-aotearoa-made-video-game-can-help-spread-te-reo-maori) - *Ben Mack*, [Idealog](https://idealog.co.nz)
 - [Prize-winning computer game embraces te reo](http://www.maoritelevision.com/news/regional/prize-winning-computer-game-embraces-te-reo) - *Tema Hemi*, [Māori Television](http://www.maoritelevision.com)
 - [Kiwi smash brawler Grabity hits Steam next week](https://www.gameplanet.co.nz/news/g5b04f02fe9665/) - *Matt Maguire, [Gameplanet](https://www.gameplanet.co.nz/)*
